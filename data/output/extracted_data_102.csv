@@ -1,0 +1,781 @@
+number,top_right_text,line1,line2,line3,line4,page,box
+26,THT0001271,Name : Sardar,Fathers Name: Mohamad Khasim sab,House Number :64,Age : 50 Gender : Male,1,1
+20,THT3324399,Name : Irfan!,Fathers Name: Irshad S,House Number : 18,Age : 27 Gender : Male,1,2
+11,THT3438355,Name : Shahabaj,Fathers Name: Mohammed Rafiq,House Number +5,Age 28 Gender : Male,1,3
+5,THT3340965,Name : AYESHA Y,Fathers Name: YOUNUS C,House Number 01,Age 24 Gender : Female,1,4
+25,THT3409778,Name + Pavan,Fathers Name: Ravikumara,House Number : 50 Ward No 14,Age : 27 Gender : Male,1,5
+21,THT3503257,Name : Hayath B,Husbands Name: Ahamad sab,House Number : 20,Age : 74 Gender : Female,1,6
+27,THT0001248,Name : Thajin Banu,Husbands Name: M. Saradara,House Number :64,Age : 42 Gender : Female,1,7
+12,THT3437092,Name : Shama K,Husbands Name: Shahabaj,House Number :5,Age : 24 Gender : Female,1,8
+19,THT3324803,Name : SABREEN TAJ,Husbands Name: IRSHAD,House Number : 18,Age : 48 Gender : Female,1,9
+10,THT3438389,Name : Jabeena Taj,Husbands Name: Mahamed Rafiq,House Number :5,Age : 44 Gender : Female,1,10
+6,THT3337243,Name : NOOR FATHIMA.,Fathers Name: Mahaboob Basha A,House Number :01,Age 22 Gender : Female,1,11
+4,YZV4278867,Name : Raqeeb,Fathers Name: Khadar Sab,House Number :1,Age : 26 Gender : Male,1,12
+29,THT3345428,Name : SABREEN TAJ,Husbands Name: ABDUL RAHAMAN,House Number : 82,Age : 27 Gender : Female,1,13
+8,THT3470853,Name : Hidayath F,Fathers Name: FAYAJ,House Number 01,Age +19 Gender : Male,1,14
+2,THT3436458,Name : SEEMA BANU,Husbands Name: RAQEEB,House Number :01,Age +33 Gender + Female,1,15
+17,THT3304904,Name : AMJAD KHAN,Fathers Name: BASEER KHAN,House Number 14,Age : 34 Gender : Male,1,16
+30,THT0417741,Name : Syedrafiq,Fathers Name: Syedabdul,House Number : 88,Age : 44 Gender : Male,1,17
+9,THT3438363,Name : Rafik M,Fathers Name: Basha Sab,House Number :5,Age : 46 Gender : Male,1,18
+3,THT3325974,Name : Nusrath,Husbands Name: Naveed Basha,House Number : 01,Age = 27 Gender : Female,1,19
+28,CWF6001226,Name : Renukamma,Husbands Name: Nemappa,House Number : 75,Age : 41 Gender : Female,1,20
+18,THT3324811,Name : IRSHAD,Fathers Name: SHAFI SAB,House Number : 18,Age : 51 Gender : Male,1,21
+7,THT3485331,Name > ALFAJ J,Fathers Name: JAFAR SADIQ.,House Number :1,Age : 19 Gender : Male,1,22
+1,THT3434545,Name : Muskan G,Fathers Name: Gous Peer K,House Number : 0,Age : 21 Gender : Female,1,23
+16,THT3292372,Name t muksuda m,Fathers Name: zabi ulla,House Number : 13th ward gousiya naga,Age : 39 Gender : Female,1,24
+14,THT3491032,Name : SHAHID,Fathers Name: SYED RAFHIK,House Number : 06.,Age : 20 Gender : Male,1,25
+23,CWF1639665,Narne : Dayananda D A,Fathers Name: A T Dasappa,House Number : 45,Age + 46 Gender : Male,1,26
+15,THT3408424,Name : Syed Mursalin,Fathers Name: Syed Mahaboob Jan,House Number : 10,Age : 20 Gender : Male,1,27
+24,THT3346467,Name : JABI ULLA,Fathers Name: MAHABOOB BASHA,House Number : 45,Age : 29 Gender : Male,1,28
+13,THT3438371,Name : Arbaz M,Fathers Name: Mahamed Rafiq,House Number : 5,Age : 22 Gender : Male,1,29
+22,THT2313567,Name t Mohammed Sadath,Fathers Name: Mohammed Anwar,House Number : 38,Age +33 Gender : Male,1,30
+41,THT2521284,Name : mahamad Mubarak A,Fathers Name: Abdul kareem sab,House Number : 114,Age 28 Gender : Male,2,1
+56,THT3266962,Name : Chethan P-,Fathers Name: Prasanna Kumar R B,House Number : 174,Age : 28 Gender : Male,2,2
+50,THT2521045,Name : Aishwarya S Babu,Fathers Name: Umesh Babu SG,House Number : 1398,Age : 28 Gender : Female,2,3
+35,THT2315497,Name : Madiha Samreen,Husbands Name: Salman N,House Number : 109,Age : 34 Gender : Female,2,4
+55,THT2362101,Name : DN Shwetha,Husbands Name: D. L. Nagendrakumar,House Number : 169,Age : 40 Gender : Female,2,5
+51,THT0409664,Name : P.Eshwarappa,Mothers Name: Kalyanamma,House Number : 142,Age : 73 Gender : Male,2,6
+40,THT3146818,Name : Heena Kouser BY,Husbands Name: MAHAMAD THOUFIQ,House Number : #112,Age : 30 Gender : Female,2,7
+57,CWF 1645019,Name : Kumari Asmabanu,Husbands Name: Syed Khalil Sab,House Number : 307,Age : 42 Gender : Female,2,8
+42,THT3135167,Name : thasmiya,Husbands Name: A Mohammed mubarak,House Number : 114,Age : 26 Gender : Female,2,9
+49,THT3400371,Name : Harshitha HS,Fathers Name: Srinivasamurthy H L,House Number : #133,Age : 20 Gender : Female,2,10
+36,THT1250778,Name : 1. Venkatesh,Fathers Name: Parappa,House Number : 110,Age : 48 Gender : Male,2,11
+34,CWF1641315,Name : Salman N,Fathers Name: Mohammed Anwar,House Number : 109,Age : 39 Gender : Male,2,12
+38,THT2367688,Name : Roshan Zameer A,Fathers Name: Abdul Khadar,House Number : 112,Age 30 Gender : Male,2,13
+59,| THT3485604,Name : MEHARUNNISA,Husbands Name: MAHABOOB BHASHA,House Number : 411,Age +58 Gender : Female,2,14
+32,THT2732626,Name : Mubina,Husbands Name: Rahamansab,House Number : 102,Age +52 Gender : Female,2,15
+47,THT0417394,Name : Mahamad Shakeet,Fathers Name: Aabdul Rasul,House Number 129/15,Age :56 Gender : Male,2,16
+60,THT0405530,Name : Valeeba,Fathers Name: H.Bashirsab,House Number : 570,Age : 61 Gender : Male,2,17
+39,THT3485463,Name : Saniya Tabassum,Husbands Name? Roshan Zameer A,House Number : 112,Age : 25 Gender : Female,2,18
+33,THT3326972,Name : KOUSAR BANU,Husbands Name: ZAMEER BEG,House Number : 102,Age + 36 Gender : Female,2,19
+58,THT1250901,Name : Gowramma,Husbands Name: Venkateshappa,House Number : 330,Age : 8 Gender : Female,2,20
+48,THT2367670,Name : Haidar Ali Qadri,Fathers Name: Mahamed Shakil,House Number : 129/15,Age : 30 Gender : Male,2,21
+37,THT3020336,Name :H U Divya,Fathers Name: D M Umesha,House Number : 111,Age : 28 Gender : Female,2,22
+31,THT3485836,Name : HASEENA BANU,Husbands Name: ABDUL GAFUR SAB,House Number : 101,Age : 57 Gender : Female,2,23
+46,THT3351970,Name = Irfan,Fathers Name: Zahirulla,House Number : 123,Age : 23 Gender : Male,2,24
+44,THT3326394,Name : SHAMEEM BANU,Husbands Name: SYED IMAM,House Number : 121,Age : 56 Gender : Female,2,25
+53,THT2312809,Name : Abdul Basith,Fathers Name: Abdul Muyeed,House Number : 147/15,Age +30 Gender : Male,2,26
+45,THT3460409,Name : Subiya Khanam,Husbands Name: Muyib,House Number : 123,Age : 29 Gender : Female,2,27
+54,THT3340080,Name : NIDA FAZAL,Husbands Name: ABDUL MAJEED,House Number : 147/15,Age : 23 Gender : Female,2,28
+52,THT2169977,Name : Abdul Majeed,Fathers Name: Abdul Muyeed,House Number : 147/15,Age + 32 Gender : Male,2,29
+43,THT3373362,Name + Akash H K,Fathers Name: Karigiri HN,House Number : 120,Age : 20 Gender : Male,2,30
+86,THT0410753,Name : Mahaboob Bhasha,Fathers Name: H B.Nurullasab,House Number : 886,Age : 35 Gender : Male,3,1
+80,| THT0225888,Name : B.G.Venkatesh,Fathers Name: B N.Gangadharanaydu,House Number : 826/A,Age : 60 Gender : Male,3,2
+7,THT1250968,Name : Hasinabanu,Husbands Name: Alisab,House Number : 683,Age : 56 Gender : Female,3,3
+65,THT2267094,Name : Arshiya Banu,Husbands Name? Mahboob Basha,House Number +670,Age : 37 Gender : Female,3,4
+85,THT0405332,Name : Khadeer Ahamad,Fathers Name: Mohammed noorulla,House Number : 886,Age : 36 Gender : Male,3,5
+81,THT0408666,Name : Apreenthaj,Fathers Name: Allabhakshi,House Number : 886,Age : 43 Gender : Female,3,6
+87,THT3134939,Name : Habiba banu,Husbands Name: Khadeer ahamed,House Number : 886,Age : 25 Gender : Female,3,7
+72,THT0005611,Name : Suraiyaanjum,Husbands Name: Ashwak,House Number : 683,Age : 41 Gender : Female,3,8
+79,THT0404293,Name + Shabinathaj,Husbands Name: D.Rehaman,House Number : 826,Age : 48 Gender : Female,3,9
+70,THT1250950,Name : Alisaba,Fathers Name: Gapharsab,House Number : 683,Age : 59 Gender : Male,3,10
+66,THT2315505,Name : B. Saddam Husen,Fathers Name: Bashir Sab,House Number : 670,Age : 34 Gender : Male,3,11
+64,THT0402180,Name : Nasim,Fathers Name: Bashir sab,House Number : 670,Age : 39 Gender : Male,3,12
+89,THT1251024,Name : Alimpasha,Fathers Name: pyare jan,House Number : 889,Age + 40 Gender : Male,3,13
+63,THT1250943,Name : Gouse peer,Fathers Name: Gaffar Sab,House Number 679,Age +53 Gender : Male,3,14
+62,THT1250927,Name : Alisab,Fathers Name: Yusabsab,House Number : 634,Age : 50 Gender + Male,3,15
+77,THT0001693,Name : nikhath parveen,Husbands Name: Munavar Ahamed,House Number : 751,Age : 39 Gender : Female,3,16
+90,THT0418822,Name : Thabasumbanu,Husbands Name: Gouspeer,House Number : 889,Age : 40 Gender : Female,3,17
+69,THT3509064,Name : G SUHIL,Fathers Name: GOUSE PEER,House Number : 679,Age : 19 Gender : Male,3,18
+63,THT0403469,Name : B.Jafar sadiq,Fathers Name: Jabina Bashir sab,House Number : 670,Age : 43 Gender : Male,3,19
+88,THT0410126,Name : Aarif,‘Husbands Name: Gouse Sab,House Number : 889,Age : 48 Gender : Female,3,20
+78,THT3458452,Name : SUHEL J,Fathers Name: JABEE ULLA,House Number : 786,Age : 19 Gender : Male,3,21
+67,THT0401638,Name : Nageerunnisa,Husbands Name: B.Jafar sadik,House Number : 671,Age : 38 Gender : Female,3,22
+61,THT0005330,Name : B.s.Chandini,Fathers Name: le. Shabir sab,House Number : 570,Age : 36 Gender : Female,3,23
+76,THT0402313,Name : A.Dadapeer,Fathers Name: Abdulgapharsab,House Number : 751,Age : 40 Gender : Male,3,24
+74,THT0405225,Name : Ariff Basha,Fathers Name: Rizwan Sab,House Number : 751,Age : 52 Gender : Male,3,25
+83,THT0003350,Name : Parajanabanu,Husbands Name: Khadirbasha,House Number : 886,Age + 40 Gender : Female,3,26
+75,THT0001677,Name : Mohseena Taj,Husbands Name: Anff Basha,House Number : 751,Age : 43 Gender : Female,3,27
+84,THT0402560,Name : Jabivulla,Fathers Name: Allabhakshi,House Number : 886,Age : 40 Gender : Male,3,28
+73,THT0005389,Name :S.Shama,Husbands Name: Nizamuddin,House Number : 726.,Age : 39 Gender : Female,3,29
+82,THT0408690,Name : Yasminthaj,Fathers Name: Allabhakshi,House Number : 886.,Age : 41 Gender : Female,3,30
+101,| THT0040824,Name :B G.Lakshmi,Husbands Name: B.G.Venkatesha,House Number : 1074,Age : 56 Gender : Female,4,1
+16,THT1785039,Name : Vasim Akram,Fathers Name: Abdul Ghani Sab,"House Number : 1335,",Age : 36 Gender : Male,4,2
+110,| THT 1251123,Name = Nandini,Husbands Name: R.V.Shashikumar,House Number : 1138,Age : 41 Gender : Female,4,3
+5,THT3020229,Name : Geetha R,Husbands Name: Hanumanthappa T,House Number : 1008,Age ! 26 Gender : Female,4,4
+115,THT3228186,Name : NASREEN TAJ,Husbands Name: KHAJAHUSEN A,House Number : # 1308,Age : 24 Gender : Female,4,5
+111,THT2315703,Name : LOKESH LK,Fathers Name: T N KRISHNAPPA,House Number : 1200,Age : 54 Gender : Male,4,6
+00,THT3300126,Name : Saniya A,Fathers Name: Aslam,House Number : 1064,Age : 22 Gender : Female,4,7
+117,THT3281896,Name : Afsana Begum,Husbands Name: Vaseem akram,"House Number : 1335,",Age : 30 Gender : Female,4,8
+102,THT1784982,Name : Hamidabanu,Husbands Name: Sharipajan,House Number : 1084,Age : 44 Gender : Female,4,9
+109,THT0004093,Name + Salimunnisa,Husbands Name: Dadapir,House Number : 1121,Age : 46 Gender : Female,4,10
+96,THT0003731,Name : Vahidabanu,Fathers Name: Dadapeer,House Number : 1031,Age : 48 Gender : Female,4,11
+94,THT1251073,Name : Bibi Phathima,Mothers Name: Khurshidabanu,House Number : 1008,Age : 40 Gender : Female,4,12
+98,THT3472024,Name : Usma Ayesha,Fathers Name: Mahaboob Basha,House Number : 1031,Age +23 Gender : Female,4,13
+19,THT3288321,Name : Sabreentaj,Husbands Name: Abul Rahaman,House Number : 1335,Age : 27 Gender : Female,4,14
+92,THT0002931,Name = Irfan A,Fathers Name: Mahamad Anwar,House Number : 889,Age : 37 Gender + Male,4,15
+107,THT0005314,Name :C.P.Supritha,Husbands Name: B.R. Mahanthesha,House Number : 1102,Age : 42 Gender : Female,4,16
+20,THT2312874,Name : Faridabanu,Fathers Name: Abdul Gafoorasab,House Number : 1365,Age : 41 Gender : Female,4,17
+99,THT3300118,Name : Mahabul,Fathers Name: Aslam,House Number : 1064,Age : 23 Gender : Male,4,18
+93,THT2984383,Name : Khutejatul Kubra,Husbands Name: Irfan A,House Number : 889,Age = 27 Gender : Female,4,19
+18,THT2313013,Name : Gousiya Banu,Fathers Name: Abdul Ghani,House Number : 1335,Age : 30 Gender : Female,4,20
+108,| THT0417105,Name : K.M.Srikanth,Fathers Name: K.M.Mukundarao,House Number : 1106,Age : 36 Gender : Male,4,21
+97,THT0003723,Name : Shabina Khanum,Husbands Name: Bahabubbasha,House Number : 1031,Age : 45 Gender : Female,4,22
+91,THT0410118,Name : Gouspeer,Fathers Name: Gaphursab,House Number : 889,Age : 39 Gender : Male,4,23
+06,THT3166998,Name : Dilsha Khanam,Husbands Name: Mohamed Asadulla,House Number : 1098,Age : 28 Gender : Female,4,24
+104,: THT2071637,Name : Dilshadbanu,Husbands Name: Akbar Sab,House Number : 1098,Age :55 Gender : Female,4,25
+113,| THT0403964,Name = H.S.Nagaraja,Fathers Name: H.S.Shankrappa,House Number : 1226/1,Age + 40 Gender : Male,4,26
+05,THT2071926,Name : Mahamad Asadulla,Fathers Name: Akbar,House Number : 1098,Age : 34 Gender : Male,4,27
+14,THT2071686,Name : Enayatha Ulla,Fathers Name: Bashasab,House Number : 1226/2,Age : 54 Gender : Male,4,28
+112,THT0006452,Name = Chiranjeevi G.K.,Fathers Name: Late G.K.Gopala,House Number : 1226,Age + 39 Gender : Male,4,29
+103,THT1785005,Name : Rihanabanu,Fathers Name: Aslam,House Number : 1084,Age : 42 Gender : Female,4,30
+131,CWF1644087,Name :C.M.Vinod,Fathers Name: Murugendrappa,"House Number : 1595/A,",Age : 44 Gender : Male,5,1
+46,THT3486107,Name : Karim Sab,Others: Sabira Banu,House Number : 2007,Age : 62 Gender : Male,5,2
+140,: THT0002923,Name : Sabanabanu,Husbands Name: Mohamed Usman,House Number : 1622,Age : 36 Gender : Female,5,3
+125,THT0406173,Name : K. Vinay,Fathers Name: A. S. Krishnamurthy,House Number : 1557,Age : 40 Gender : Male,5,4
+45,CWF1641950,Name : SHABEENA BANU,Husbands Name: GOUSE PEER,House Number : 2000-1,Age : 43 Gender : Female,5,5
+41,THT2261816,Name : Navidbasha,Fathers Name: Bashasab,House Number : 1910.,Age : 39 Gender : Male,5,6
+30,THT1252766,Name :C.P.Vina,Fathers Name: Murugendra,"House Number : 1595/A,",Age : 48 Gender : Female,5,7
+47,THT3486099,Name : Sabira Banu,Husbands Name: Karim Sab,House Number : 2007,Age : 56 Gender : Female,5,8
+32,THTO000596,Name : M.Devaraju,Fathers Name: Marulappa,House Number : 1620,Age : 72 Gender : Male,5,9
+39,THT0419242,Name + R.Smitha,Fathers Name: S.Rajanna,House Number : 1622,Age : 38 Gender : Male,5,10
+126,THT0406181,Name : K. Naveen,Fathers Name: A. S. Krishnamurthy,House Number : 1557,Age : 37 Gender : Male,5,11
+24,THT2454460,Name : G.P. Guruprasad,Fathers Name: G.P. Prakash,House Number : 1514-2,Age : 29 Gender : Male,5,12
+128,] ZWW3603651,Name : Pragathi MK,Husbands Name: Jayachandra V,House Number : 1576,Age +27 Gender : Female,5,13
+49,THT3266806,Name : Gousiya Banu,Husbands Name: Zuber Beg,House Number : 2024,Age : 28 Gender : Female,5,14
+22,THT2315091,Name = Syed Irfan,Fathers Name: Syed Imam,House Number : 1413,Age : 34 Gender : Male,5,15
+137,| THT0402958,Name :S.V. Madhusudan,Mothers Name: H.V.Manjamma,House Number : 1621,Age : 39 Gender : Male,5,16
+150,CWF1641299,Name : Dilshadunisa,Husbands Name: Usmankhan,House Number : 2050,Age : 85 Gender : Female,5,17
+129,| THT 1252758,Name : Maheshwaramma,Fathers Name: Murugendra,House Number : 1595/A,Age : 69 Gender : Female,5,18
+23,THT2313187,Name : Shabeena Banu,Husbands Name: Syed Irfan,House Number : 1413,Age + 32 Gender : Female,5,19
+48,THT0403949,Name : Zamirbeg,Fathers Name: Anwarbeg,House Number : 2024,Age : 40 Gender : Male,5,20
+138,THT0042739,Name : Mosinabanu,Husbands Name: Mustak,House Number : 1622,Age : 40 Gender : Female,5,21
+127,] THT0404533,Name ?H. P. Sathish,Fathers Name: G.Parameshwarappa,House Number : 1571,Age : 63 Gender : Male,5,22
+121,THT1785047,Name : Abdul Rahaman,Fathers Name: Abdulaghani B M,House Number : 1365/1,Age : 37 Gender : Male,5,23
+36,THT0000810,Name : Mohamad Farooq,Fathers Name: Abdul Khuddus Sab,"House Number : 16204,",Age : 40 Gender : Male,5,24
+134,: THT1251172,Name : Parwinbanu,Fathers Name: Rajaksaba,House Number : 1620,Age : 42 Gender : Female,5,25
+43,THT3421179,Name : Shabeena Bhanu,Fathers Name: Saleem Babu,House Number : 1955,Age * 23 Gender : Female,5,26
+135,| THT1251180,Name : Janahathwunnisa,Husbands Name: Akrambasha,House Number : 1620,Age : 41 Gender : Female,5,27
+44,THT2315612,Name : Nusrath Unnisa,Husbands Name: Nadeem Ahamed,House Number : 1997,Age : 30 Gender : Female,5,28
+42,THT3421153,Name : Afreen Taj S,Fathers Name: SaleeM Babu Hosadurga,House Number : 1955,Age : 24 Gender : Female,5,29
+133,THT0000588,Name + P.Hemalatha,Husbands Name: Le.S.Puttaraju,House Number : 1620,Age : 57 Gender : Female,5,30
+161,THT3189008,Name : Ayesha Banu,Husbands Name: Jeelan Khan,House Number : 2050,Age : 24 Gender : Female,6,1
+76,CWF1642560,Name : Sahira banu,Husbands Name? Kamar Bhash,House Number : 2055,Age ! 48 Gender : Female,6,2
+70,THT3303690,Name : MANSUR BANU,Husbands Name: DADA PIR,House Number : 2052.8,Age :51 Gender : Female,6,3
+155,THT 2312866,Name : Sapoorakanam,Fathers Name: Usmankan. M,House Number : 2050,Age : 34 Gender : Female,6,4
+175,CWF1657634,Name + Saihedabanu,Fathers Name: Mahamadshafi,House Number : 2055,Age : 54 Gender : Female,6,5
+171,CWF1641372,Name : H.B.Shaphiulla,Fathers Name: Buden sab,House Number : 2053-1,Age : 73 Gender : Male,6,6
+60,THT3020120,Name : Ismail Zabiulla,Fathers Name: Pyarejan,House Number : 2050,Age : 26 Gender : Male,6,7
+177,THT3440377,Name : SADIYA KOUSAR,Fathers Name: MOHAMMED GAYAZ,House Number : 2055,Age : 21 Gender : Female,6,8
+62,THT3293842,Name : Mahaboob Bi,Husbands Name: Rabbani Khan,House Number : 2050,Age : 24 Gender : Female,6,9
+69,THT3020302,Name :T Radhamma,Husbands Name: Mohana P R,House Number : 2052/1,Age : 29 Gender : Female,6,10
+56,THT2313260,Name : Jilan Khan,Fathers Name: Ismahil Khan,House Number : 2050,Age : 32 Gender : Male,6,11
+54,THT2494649,Name : Naseema unnisa,Husbands Name: Parajan Sab,House Number : 2050,Age : 39 Gender : Female,6,12
+58,THT3020427,Name : Rabbani Khan,Fathers Name: Ismail Khan,House Number : 2050,Age 28 Gender : Male,6,13
+179,| THT 1251362,Name : Parwin,Husbands Name: Parukbasha,House Number : 2056,Age +56 Gender : Female,6,14
+152,: THT 1251289,Name : Ismayila Sab.M.,Fathers Name: Usmankhan,House Number : 2050,Age : 53 Gender : Male,6,15
+67,CWF1643105,Name : Syed Dadu,Fathers Name: Sai.Husen sab,House Number : 2052,Age : 49 Gender : Male,6,16
+80,THT0230987,Name : Mustaf,Fathers Name: Ahamad Sharif,House Number : 2056,Age : 52 Gender : Male,6,17
+59,THT3020393,Name : Subhan Khan,Fathers Name: Ismail Khan,House Number : 2050,Age : 26 Gender : Male,6,18
+53,THT2312387,Name : Pyarejan Sab,Fathers Name: Jaleel Sab,House Number : 2050,Age : 50 Gender : Male,6,19
+78,THT1251354,Name : Parukbasha,Fathers Name: Ahamada Sharipha,House Number : 2056,Age + 60 Gender : Male,6,20
+68,THT3020328,Name : Mohan P R,Fathers Name: Rudrappa P,House Number : 2052/1,Age : 40 Gender : Male,6,21
+57,THT2454262,Name : P Jegna,Fathers Name: Pyarejan Sab,House Number : 2050,Age : 29 Gender : Female,6,22
+51,THT1251297,Name = AYISHA,Husbands Name: ISMAIL KHAN,House Number : 2050,Age : 54 Gender : Female,6,23
+166,THT1251321,Name :K.C. Rekha,Fathers Name: P. E. Venkatesha,House Number + 2051,Age : 39 Gender : Female,6,24
+164,CWF1643881,Name : Jubedabi,Husbands Name: Pyarejanasab,House Number : 2051,Age :73 Gender : Female,6,25
+173,: THT2084128,Name : Vajeehabanu,Husbands Name: Roshan Zameer,House Number : 2053/1,Age : 27 Gender : Female,6,26
+165,CWF1643634,Name : Munavarabasha,Mothers Name? Jubedabi,House Number : 2051,Age : 58 Gender : Male,6,27
+174,OWF1645522,Name : Anusuyadevi M.,Husbands Name: Gudadappa.R,House Number 2054,Age : 66 Gender : Female,6,28
+172,THT2072007,Name : Rhoshan jameer.,Fathers Name: H.8.Safeeulla.,House Number : 2053-1,Age : 35 Gender : Male,6,29
+63,THT3494390,Name + SAMDHANI KHAN,Fathers Name: ISMAIL KHAN,House Number : #2050,Age : 21 Gender : Male,6,30
+191,THT2984250,Name : Shabina Banu,Husbands Name: Mahaboob Basha,House Number : 2056/1,Age : 40 Gender : Female,7,1
+206,] CWF1640705,Name : Panchaksharalan.M.V.,Mothers Name: Gangamma,House Number : 2061-1,Age : 62 Gender : Male,7,2
+100,THT2313484,Name : Rakesha. B.P,Fathers Name: Prakasha. 8.S,House Number : 2060,Age : 30 Gender : Male,7,3
+85,THT3023462,Name : Sumaiya banu,Husbands Name: Khamar jan,House Number : 2056,Age : 36 Gender : Female,7,4
+205,THT2072031,Name : M.Punitha.,Fathers Name: S.Mariyappa.,House Number : 2061,Age : 36 Gender : Female,7,5
+01,THT3146727,Name : Ranjitha,Fathers Name: Sudha,House Number : 2060,Age : 28 Gender : Male,7,6
+90,THT2521409,Name : Mahboob basha,Fathers Name: Chotusab,House Number : 2056/1,Age : 54 Gender : Male,7,7
+207,] CWF1640663,Name : Kalpana H M,Husbands Name: Panchaksharaiah.M.V.,House Number : 2061-1,Age : 55 Gender : Female,7,8
+192,CWE1639947,Name : D.A.Vasantha,Fathers Name: A.T.Dasappa,House Number : 2057,Age : 46 Gender : Male,7,9
+99,CWF1641455,Name ? Sudha,Husbands Name: Prakasha,House Number : 2060,Age : 50 Gender : Female,7,10
+186,THT207 1967,Name : Fhakrunnisa.,Fathers Name: Fharuk basha.,House Number : 2056,Age : 34 Gender : Female,7,11
+84,THT2315117,Name + Noor zahere,Husbands Name: Mahammed Basha S A,House Number : 2056,Age : 36 Gender : Female,7,12
+188,| THT3020377,Name : F Noor Mohammed,Fathers Name: Farooq Basha,House Number : 2056,Age 26 Gender : Male,7,13
+109,CWF1640838,Name : Bathulabi,Husbands Name: Pyarejan sab,House Number : 2062,Age : 78 Gender : Female,7,14
+182,: CWF1646124,Name : Mahammed Basha SA,Fathers Name: Ahamad Sharif,House Number : 2056,Age : 48 Gender : Male,7,15
+197,| CWF1642032,Name : Puttamma,Husbands Name: B.R.Sidramaiah,House Number : 2060,Age : 85 Gender : Female,7,16
+10,CWF1644764,Name : Chandbi,Husbands Name: Navab khan,House Number : 2062,Age : 70 Gender : Female,7,17
+189,"THT3351590,",Name : Mohammed Zeeshan,Fathers Name: Mahaboob basha,House Number : 2056,Age : 21 Gender : Male,7,18
+183,| THT0002691,Name : Shabana Banu,Husbands Name: Mahabuba.Basha,House Number : 2056,Age : 43 Gender : Female,7,19
+208,| THT2315570,Name : Meghana. M.P-,Fathers Name: Panchaksharaiah MV,House Number : 2061/1,Age : 30 Gender : Female,7,20
+198,CWF1641083,Name : Prakash,Fathers Name: B.R.Sidramaiah,House Number : 2060,Age : 68 Gender : Male,7,21
+87,THT3020187,Name : Salmabanu,Fathers Name: Farooq Pasha,House Number : 2056,Age : 29 Gender : Female,7,22
+81,CWF1641349,Name : Mahaboob Basha,Fathers Name: Ahamad Shareef,House Number : 2056,Age : 52 Gender : Male,7,23
+196,THT2312049,Name : Deepika. C,Husbands Name: Chadrappa,House Number : 2058,Age : 31 Gender : Female,7,24
+194,| THT 1251388,Name +H. L. Shrinivasamurthi,Fathers Name: H T Lokesh,House Number : 2058,Age : 44 Gender : Male,7,25
+203,CWF1645662,Name : Gangamma,Husbands Name: S.Marlyappa_,House Number : 2061,Age : 75 Gender : Female,7,26
+198,] THT0419952,Name : M.A.Sudha,Husbands Name: H.L.Shrinivasamurthy,House Number : 2058,Age : 38 Gender : Female,7,27
+204,THT0420927,Name : M.Manjunatha,Fathers Name: S.Marlyappa,House Number : 2061,Age 44 Gender : Male,7,28
+02,THT3291796,Name : NOORANI KHAN,Fathers Name: ISMAYILA SAB M,House Number : 2060,Age : 23 Gender : Male,7,29
+193,| CWF1640051,Name + Lakshmidevamma,Husbands Name: H.T.Lokesha,House Number : 2058,Age : 78 Gender : Female,7,30
+221,: THT1251461,Name : Mustharjana,Fathers Name: Ashwakh Ahamad,House Number : 2063,Age : 55 Gender : Female,8,1
+36,CWF1646140,Name : Nazeer ahamad,Fathers Name: Abdul ghani sab,House Number ! 2069,Age : 44 Gender : Male,8,2
+30,: THT0000687,Name : Shashi Rekha S P,Husbands Name: S.N Manjunatha,House Number : 2068,Age : 41 Gender : Female,8,3
+215,THT 2521425,Name : Khatummunisa,Husbands Name? Mohammed Zabi,House Number : 2062,Age : 38 Gender : Female,8,4
+235,THT2732410,Name : Ibrahinkhalilulla,Fathers Name: Abdulghanisab,House Number : 2069,Age : 52 Gender : Male,8,5
+231,THT2732378,Name : Khurshidbanu,Husbands Name: Abdulghanisab,House Number ! 2069,Age : 85 Gender : Female,8,6
+220,CWF1643741,Name : Sai.Musthak Ahamed,Fathers Name: Abdhulkhuddus,House Number : 2063,Age : 55 Gender : Male,8,7
+37,"THT1251495,",Name : Thahirajan,Husbands Name: Amirjansab-,House Number : 2071,Age : 65 Gender : Female,8,8
+22,CWF1642958,Name : Noor ahmed,Fathers Name: Abdhul kuddus,House Number : 2063,Age : 48 Gender : Male,8,9
+229,} CWF1642545,Name :S.N.Manjunatha,Fathers Name: S.G.Nagaraja,House Number : 2068,Age : 53 Gender : Male,8,10
+16,THT2521102,Name : M M Shahabaj,Fathers Name: Mahamed Zabi,House Number : 2062,Age : 28 Gender : Male,8,11
+14,THT1251420,Name : Mahamad Jahurulla,Fathers Name? Abdula Khayyum,House Number : 2062,Age : 47 Gender : Male,8,12
+218,7HT1263011,Name : Shahathajabanu,Husbands Name: Sameeulla,House Number : 2062/1,Age : 43 Gender : Female,8,13
+39,THT1251511,Name : Abdul Muyeed,Fathers Name: Abdul Majeed,House Number : 2071/2,Age + 63 Gender : Male,8,14
+212,THT3146610,Name : Mohamed Shafiulla,Fathers Name: Kamal Saheb,House Number : 2062,Age : 56 Gender + Male,8,15
+227,| CWF1640390,Name = A.V.Anil Kumar,Fathers Name: B.N.Venugopal,House Number : 2067,Age 46 Gender : Male,8,16
+40,THT2071751,Name : Zainab Tasneem K A,Husbands Name: Abdul Muyeed,House Number : 2071/2,Age : 56 Gender : Female,8,17
+19,THT3300142,Name : S Arbaz,Fathers Name: Samiulla,House Number : 2062/1,Age : 23 Gender : Male,8,18
+13,CWF1645506,Name : Nasina banu,Husbands Name: Shafi Ulla,House Number : 2062,Age : 48 Gender : Female,8,19
+38,THT2732428,Name : Nowsheedha A,Husbands Name: Mohamed Wasiq,House Number 2071,Age : 47 Gender : Female,8,20
+226,| CWF1645639,Name : H.M.Nagarathnamma,Husbands Name: S.G.Nagaraja,House Number 2068,Age : 75 Gender : Female,8,21
+17,THT3300159,Name : Sabreen Taj MM,Fathers Name: Mahammed Zabi,House Number : 2062,Age : 23 Gender : Female,8,22
+211,THT2315026,Name : Mohammed Jabee,Fathers Name: Gappar Sab,House Number : 2062,Age : 58 Gender : Male,8,23
+26,"THT1251115,",Name : Dada peer A,Fathers Name: G.Aprad,House Number : 2063M,Age : 39 Gender : Male,8,24
+124,: THT 2984227,Name : R Naziyabanu,Husbands Name: Noor Ahamed,House Number : 2063,Age : 40 Gender : Female,8,25
+233,| THT2732394,Name : Jabivulla,Fathers Name: Abdulghanisab,House Number : 2069,Age +56 Gender : Male,8,26
+25,CWF1644707,Name : Jamrud Unnisa,Husbands Name: Aphrad Aahamad,House Number : 20634,Age : 65 Gender : Female,8,27
+234,THT2732402,Name : Rahamathulla,Fathers Name: Abdulghanisab,House Number : 2069,Age : 54 Gender : Male,8,28
+232,THT2732386,Name : Sadikulla,Fathers Name: Abdulghanisab,House Number : 2069,Age : 58 Gender : Male,8,29
+23,THT0410514,Name : Sayira Banu,Husbands Name: Shakeel Ahamed,House Number : 2063,Age : 45 Gender : Female,8,30
+251,: CWF1645514,Name : Kamarulla.A,Fathers Name: K.M.Ameer sab,House Number : 2074A,Age : 47 Gender : Male,9,1
+266,] CWF 1644947,Name : Shivamurtheppa.C,Fathers Name: Chikkanna,House Number : 2077,Age :58 Gender : Male,9,2
+160,THT1787860,Name :S. Manjul,Husbands Name: Lingaraju N,House Number ! 2075,Age : 34 Gender : Female,9,3
+245,THT2312932,Name : Munavar Basha,Fathers Name: Noor Ahammmed,House Number : 2074,Age : 55 Gender : Male,9,4
+65,THT2521441,Name + M Usha,Husbands Name: Prasanna Kumar G,House Number : 2076,Age : 40 Gender : Female,9,5
+61,THT1251560,Name : Onkarappa,Fathers Name: Nagappa,House Number : 2076,Age : 55 Gender : Male,9,6
+50,CWF1650233,Name : inayathulla,Fathers Name: Mahamed Ameer Sab. K.h,House Number : 2074A,Age : 53 Gender : Male,9,7
+267,] THT1251586,Name : H.E .Mallamma,Husbands Name: H.E.Parameshwarappa,House Number 2077,Age :53 Gender : Female,9,8
+52,CWF1650209,Name : Sumera Knanam,Husbands Name: Inayathulla,"House Number : 2074A,",Age : 44 Gender : Female,9,9
+59,THT2362127,Name : SHIVARAJ N,Mothers Name: Shankramma.,House Number : 2075,Age : 35 Gender : Male,9,10
+46,THT2312064,Name : Parveen,Husbands Name: Munavar Basha,House Number : 2074,Age : 42 Gender : Female,9,11
+44,CWF1640853,Name :K.M.Amir sab,Fathers Name: Mahamad Miran sab,House Number : 2074,Age : 83 Gender : Male,9,12
+48,THT2215788,Name : ayEsha Baanu,Fathers Name: sahrip baanu,House Number : 2074,Age +32 Gender : Female,9,13
+69,"THT3135555,",Name : Sheela Y,Husbands Name: Ramesh H P,House Number : 2077,Age 30 Gender : Female,9,14
+242,CWF1665009,Name : Karigiri HN,Fathers Name: Nagarajachar,House Number : 2072,Age : 51 Gender : Male,9,15
+157,THT0003533,Name : REKHA N,Fathers Name: H.Nagaraja,House Number : 2075,Age : 42 Gender : Female,9,16
+70,THT3259454,Name : Isiri S babu,Fathers Name: Umeshbabu S G,House Number : 2077,Age : 23 Gender : Female,9,17
+49,| CWF1644665,Name : Shakilabi K.M.,Husbands Name: K.M.Amirsab,House Number : 20744,Age : 70 Gender : Female,9,18
+143,THT2312312,Name :V. Sharath,Fathers Name: Late P.S. Vijayakumar,House Number : 2072,Age + 32 Gender : Male,9,19
+268,| THT3134921,Name : Shashikumar H P,Fathers Name: Parameshwarappa H G,House Number : 2077,Age + 31 Gender : Male,9,20
+58,THT2494664,Name : Lingaraju N,Fathers Name: Nagaraja,House Number : 2075,Age : 38 Gender : Male,9,21
+47,THT2312148,Name : Noorul Ayisha,Husbands Name: Hidayath Ulla,House Number : 2074,Age : 35 Gender : Female,9,22
+241,THT1251537,Name = H.N.Narahari,Fathers Name: Nagarajachar,House Number : 2072,Age : 54 Gender : Male,9,23
+256,THT1251552,Name : Shankaramma,Husbands Name: H.Nagaraja,House Number : 2075,Age : 64 Gender : Female,9,24
+54,CWF1641687,Name : Hidayath Ulla,Fathers Name: Ameersab .K.M.,House Number : 20744,Age : 42 Gender : Male,9,25
+263,THT1251578,Name : Thippeswami,Fathers Name: Ganganna,House Number : 2076,Age +50 Gender : Male,9,26
+55,THT2391506,Name : Salmabhanu,Husbands Name: Zabiulla. A.,House Number : 2074/A,Age : 40 Gender : Female,9,27
+64,CWF1642347,Name : Prasanna,Fathers Name: Ganganna,House Number : 2076,Age : 48 Gender : Male,9,28
+62,THT0419549,Name : Latha,Husbands Name: Onkarappa,House Number : 2076,Age : 51 Gender : Female,9,29
+53,CWF1643196,Name : Zabiulla A,Fathers Name: Ameer Sab,House Number : 20744,Age : 44 Gender : Male,9,30
+281,: THT2071785,Name : G Gaviyappa,Fathers Name: Gudadappa,House Number : 2081/2,Age +73 Gender : Male,10,1
+196,THT1785179,Name : Gausapir,Fathers Name: Saiyada Pyaresab,House Number : 2086,Age : 34 Gender : Male,10,2
+290,| THT1251610,Name =H S Hanumanthappa,Fathers Name: Shankrappa,House Number : 2085,Age : 60 Gender : Male,10,3
+275,| CWF1645530,Name : G.Gayithri,Husbands Name: A.Rangaswamy,House Number : 2077C,Age : 56 Gender : Female,10,4
+95,THT3020161,Name : Naseema,Husbands Name: Ismail,House Number : 2086,Age : 37 Gender : Female,10,5
+201,CWF 1667682,Name : Annapurnamma,Husbands Name: Hanumanthappa,House Number : 2085,Age : 54 Gender : Female,10,6
+280,] CWF1644814,Name : B.Nagarathnamma,Husbands Name: Shivamurthappa,House Number : 2079,Age : 53 Gender : Female,10,7
+297,THT2732485,Name : Harshadunnisa,Husbands Name: B.M.Ghanisab,House Number : 2087,Age : 55 Gender : Female,10,8
+182,THT2071777,Name : J T Gangamma,Husbands Name: Gaviyappa G,House Number : 2081/2,Age : 66 Gender : Female,10,9
+89,CWF1644715,Name + Mohamed Usman A,Fathers Name? Mohamed Anwer,House Number : 20844,Age : 44 Gender : Male,10,10
+276,THT3020252,Name : R Bhaskara,Fathers Name: A Rangaswamy,House Number : 2077C,Age : 26 Gender : Male,10,11
+274,| THT 2394013,Name : Renukamma,Fathers Name: Hanumanthappa,House Number : 2077C,Age : 58 Gender : Female,10,12
+78,| CWF1643899,Name : Murthappa,Fathers Name: Ganganna,House Number : 2077E,Age +58 Gender : Male,10,13
+9,CWF1643865,Name : Asmajan,Husbands Name: Khaleel,House Number : 2089,Age : 41 Gender : Female,10,14
+27,| CWF1643295,Name = H.M.Chandrashekhara,Fathers Name: Murthappa,House Number : 2077B,Age + 46 Gender : Male,10,15
+287,THT3486685,Name : Kashifa Noorain,Fathers Name: Mohammed Usman,House Number : 2084,Age : 19 Gender : Female,10,16
+00,THT0001198,Name : Nurjansab,Fathers Name: masthan sab,House Number : 2090,Age : 73 Gender : Male,10,17
+79,| CWF 1642602,Name : Omkaramma,Husbands Name: Murthappa,House Number : 2077E,Age : 53 Gender : Female,10,18
+273,CWF1639731,Name : A.Rangaswamy,Fathers Name: Andanappa,House Number : 2077C,Age : 58 Gender : Male,10,19
+98,THT2732519,Name : Kamarbasha,Fathers Name: Navajjan,House Number : 2089,Age : 48 Gender : Male,10,20
+288,CWF1640648,Name : Majidabegam,Husbands Name: K.M.Anwarsab,"House Number : 20844,",Age : 55 Gender : Female,10,21
+77,THT3187739,Name :R Mukunda,Fathers Name: A Rangaswamy,House Number : 2077C,Age : 24 Gender : Male,10,22
+27,] THT1251602,Name : H.G.Parameshwarappa,Fathers Name: Ganganna,House Number : 2077A,Age : 63 Gender : Male,10,23
+186,CWF1670710,Name ! Lakshmakka,Husbands Name: Chikkanna,House Number : 2084,Age : 75 Gender : Female,10,24
+284,| CWF1645365,Name :S.T.Saroja,Husbands Name: S.G.Shrinivasa,House Number : 2083,Age : 58 Gender : Female,10,25
+93,CWF1667302,Name = Ismayil,Fathers Name: Pyarejan,House Number : 2086,Age : 44 Gender : Male,10,26
+85,THT2521375,Name : Sharada S,Fathers Name: Shrinivas S,House Number : 2083,Age : 30 Gender : Female,10,27
+94,J} CWF1640358,Name : Sadiq Vv,Fathers Name: nee,House Numb,Age :43 gom,10,28
+292,1 THT2984219,Name : Tharadevi H Ane,Fathers Name: H; pa S,House Ni,Age :29 we emale,10,29
+83,THT2071769,Name : Hemavathi G,Husbands Name: Jagadish K,House Number : 2081/2,Age : 46 Gender : Female,10,30
+326,THT0005710,Name : Samivulla,Fathers Name: Kalandarsab,House Number : 2102,Age :58 Gender : Male,11,1
+320,: CWF1641505,Name : K.Mamajan,Husbands Name: Riyaj,House Number ! 2095,Age : 45 Gender : Female,11,2
+311,: THT2732550,Name : Hamidabanu,Husbands Name: Anwarsab,House Number : 2092,Age : 50 Gender : Female,11,3
+05,THT1251644,Name : Shanshad,Fathers Name: Mohamad Asadulla,House Number : 2090A,Age : 41 Gender : Female,11,4
+25,THT2189454,Name : A.Rekha,Husbands Name: R.Maruthi,House Number : 2096,Age : 38 Gender : Female,11,5
+21,CWF1644608,Name : K.Sabjan,Fathers Name: Kanimsab,House Number : 2095,Age : 43 Gender : Male,11,6
+327,| CWE1649318,Name : Rahamathaunisa,Husbands Name: Samiulla,House Number 2102,Age : 53 Gender : Female,11,7
+312,THT0420356,Name : Phakriddinsab,Fathers Name: Bashasab,House Number : 2093,Age : 53 Gender : Male,11,8
+319,CWF1641422,Name :K.Gauspeer,Fathers Name: Karimsab,House Number : 2095,Age : 46 Gender : Male,11,9
+310,THT2732543,Name : Anwarbasha,Fathers Name: Vajirsab,House Number : 2092,Age : 55 Gender : Male,11,10
+106,THT3020351,Name : Mohamed Mallikul Rehaman,Fathers Name: Mahammed Akbar,House Number : 2090/4,Age : 26 Gender : Male,11,11
+04,THT2071801,Name : Shahathaj,Fathers Name: Dadapir,House Number : 2090,Age : 37 Gender : Female,11,12
+329,CWF1646009,Name : Rasimunnisa,Husbands Name: Sai.Abdul,House Number : 2103,Age + 65 Gender : Female,11,13
+308,| THT2315083,Name : Mahamed Noorulla,Fathers Name: Mohammed Anwar,House Number : 2091,Age +34 Gender : Male,11,14
+102,THT1251628,Name : Najirbasha,Fathers Name: Nurjansab,House Number : 2090,Age : 49 Gender : Male,11,15
+317,THT1251685,Name : Karinsab,Fathers Name: Imamuddina Sab,House Number : 2095,Age 73 Gender + Male,11,16
+330,CWF1641679,Name : Sai.Sikandar,Fathers Name: Sai.Abdul,House Number : 2103,Age : 48 Gender : Male,11,17
+309,| THT2732535,Name : Arshaphwunnisa,Fathers Name: Vajirsab,House Number : 2092,Age : 80 Gender : Male,11,18
+303,| THT2313120,Name : Rahamathunnisa,Husbands Name: Najeer Basha,House Number : 2090,Age : 46 Gender : Female,11,19
+28,THT3296563,Name : FazilaS,Fathers Name: Samiulla,House Number : 2102,Age : 24 Gender : Female,11,20
+318,THT2732568,Name : Jinathunnisa,Husbands Name: Karinsab,House Number : 2095,Age : 65 Gender : Female,11,21
+07,THT2732527,Name : Mamajigani,Fathers Name: Pyarejan B,House Number : 2091,Age : 58 Gender : Female,11,22
+301,THT2071793,Name ! Chandobi,Husbands Name: Nurajansab,House Number : 2090,Age : 60 Gender : Female,11,23
+16,THT3388246,Name : JEESHAN,Fathers Name: JABBAR SAB,House Number : 2093 B DIVISION,Age : 20 Gender : Male,11,24
+314,CWF1644939,Name : DILSHAD A,Husbands Name: Jabbar sab,House Number : 2093,Age : 45 Gender : Female,11,25
+323,| CWF1644616,Name :T.Ramesh,Fathers Name: M.Thammayya,House Number : 2096,Age + 63 Gender : Male,11,26
+15,THT3284452,Name : Roshan,Fathers Name: Jabbar Sab,House Number : 2093,Age : 24 Gender : Male,11,27
+24,THT1251693,Name : R.Maruthi,Fathers Name: T.Ramesh,House Number : 2096,Age : 42 Gender : Male,11,28
+13,CWF1645068,Name : Jabbar sab,Fathers Name: Bashasab,House Number : 2093,Age : 50 Gender : Male,11,29
+22,THT3269792,Name : Sameena Taj,Fathers Name: Riyaz B,House Number : # 2095 Near Water Tank,Age : 25 Gender : Female,11,30
+356,] THT0407031,Name : Jaheda Banu,Husbands Name: Sanaulla,House Number 2109,Age ! 41 Gender : Female,12,1
+50,THT2367662,Name : Syed Suleman,Fathers Name: Syed Abdul,House Number : 2106/4,Age : 29 Gender : Male,12,2
+41,CWF1643089,Name : Imranbeg,Fathers Name: Aajij beg,House Number : 2105 A,Age : 45 Gender : Male,12,3
+35,CWF1641414,Name : Hayad Basha,Fathers Name: Abdul Gafur,"House Number : 2105,",Age : 42 Gender : Male,12,4
+355,] THT2071835,Name + Sanavulla,Fathers Name: Bashasab,House Number : 2109,Age : 45 Gender : Male,12,5
+351,| THT 2732584,Name : Abdulalabashasab,Fathers Name: Rijjansab,House Number : 2109,Age : 84 Gender : Male,12,6
+357,THT3020146,Name : Sabreenbanu N,Husbands Name: Riyaz,House Number : 2109,Age : 32 Gender : Female,12,7
+42,CWF1641646,Name : Ameerjan,Fathers Name: Husensab,House Number : 2106,Age : 65 Gender : Male,12,8
+49,THT2984003,Name : Heenabanu,Husbands Name: Zameer,House Number : 2106,Age : 31 Gender : Female,12,9
+40,CWF1641174,Name : irphan beg,Fathers Name: Aziz beg,House Number : 21054,Age : 47 Gender : Male,12,10
+36,CWF1640952,Name : Nazeem Pasha A,Fathers Name: Abdul Gafur,House Number : 2105,Age : 41 Gender : Male,12,11
+334,THT2732576,Name : Hasinabanu,Husbands Name: Abdulgapursab,House Number : 2105,Age : 65 Gender : Female,12,12
+359,THT3418886,Name : Suvarnamma,Others: Manjula MANJULA,House Number : 2111,Age : 54 Gender : Female,12,13
+338,| THT0406025,Name : Apsarabanu,Husbands Name: Hayath Basha,House Number : 2105,Age +37 Gender : Female,12,14
+132,THT2315596,Name = C. Mallika,Husbands Name: Syed Sikander,House Number : 2103,Age +36 Gender + Female,12,15
+47,THT2315646,Name : Shabana Banu,Husbands Name: Tanveer,House Number : 2106,Age : 39 Gender : Female,12,16
+60,CWF1641513,Name : Umesh DM,Fathers Name: Basayya,House Number : 2111,Age : 52 Gender : Male,12,17
+39,THT2454429,Name : Sumaiya Banu,Husbands Name: Mohamad Nazeem,House Number : 2105,Age : 30 Gender : Female,12,18
+33,THT2071827,Name : Abdul Gafur,Fathers Name: Karim Sab,House Number : 2105,Age : 70 Gender : Male,12,19
+58,THT3020385,Name : Yasmeen Banu V,Fathers Name: Valisab,House Number : 2109,Age : 27 Gender : Female,12,20
+48,CWF1642065,Name : Jameer,Fathers Name: Ameerjan,House Number : 2106,Age : 35 Gender : Male,12,21
+37,THT3023504,Name : Mubeena,Husbands Name: Rizwan Baig,House Number : 2105,Age : 39 Gender : Female,12,22
+31,THT2189447,Name : Reshma Banu,Fathers Name: Syed afzal,House Number : 2103,Age : 39 Gender : Female,12,23
+46,CWF1639970,Name : Tanveer,Fathers Name: Aamir Jan,House Number : 2106,Age : 42 Gender : Male,12,24
+44,CWF1644400,Name : Syed abdul,Fathers Name: Sai.ahamad sab,House Number : 2106,Age : 53 Gender : Male,12,25
+53,THT1251750,Name : Khalil Anamad,Fathers Name: Bashasab,House Number : 2109,Age +53 Gender : Male,12,26
+45,CWF1644673,Name : Asiyabanu,Husbands Name: Syedabdul,House Number : 2106,Age : 48 Gender : Female,12,27
+354,THT1251768,Name : Khurshadbanu,Husbands Name: Khalilahmad,House Number : 2109,Age : 50 Gender : Female,12,28
+43,CWF1642487,Name : Phamid,Husbands Name: Ameersab,House Number : 2106,Age : 62 Gender : Female,12,29
+52,THT2732592,Name : Jaherabibi,Husbands Name: Bashasab,House Number : 2109,Age : 70 Gender : Female,12,30
+186,THT3429396,Name =H LUWAZ,Others: AMRARIN KOUSAR,House Number : #2114/1,Age : 37 Gender : Male,13,1
+80,THT 1251982,Name + Sai.Vumar,Fathers Name: Sai. Khalilsab,House Number ! 2114-1,Age : 47 Gender : Male,13,2
+71,THT2984060,Name : Syed Khaleel Sab,Fathers Name: Syed Dastagir Sab,House Number 2114,Age +75 Gender : Male,13,3
+65,THT2187144,Name : Shaheda,Husbands Name: Khaleel sab,House Number : 2113,Age : 60 Gender : Female,13,4
+385,] THT3091584,Name : SYED MUBARAK M,Fathers Name: Syed Mahaboob,House Number : 00,Age : 25 Gender : Male,13,5
+381,"THT0405613,",Name : Syed Chandpasha,Fathers Name: Syed Khaleel Sab,House Number : 2114-1,Age : 46 Gender : Male,13,6
+87,THT1252014,Name : NOOR ULLA SAB,Fathers Name: Gapursab,House Number : 2115,Age : 65 Gender : Male,13,7
+72,THT1251958,Name : Pathimabi,Husbands Name: Valeeba,House Number 2114,Age : 65 Gender : Female,13,8
+79,THT3419728,Name + Usman,Fathers Name: Valib,House Number : #2114,Age : 20 Gender : Male,13,9
+70,THT1251941,Name : Gapursab,Fathers Name: Nabisab,House Number : 2114,Age : 75 Gender : Male,13,10
+66,CWF1644582,Name : VAJEERA AHAMED,Fathers Name: MOHMED IMAMA SAB.,House Number : 2113,Age : 52 Gender : Male,13,11
+364,CWF1641976,Name : Thahasinabanu,Husbands Name: Sharif jan,House Number : 2112-1,Age : 43 Gender : Female,13,12
+89,CWF1644749,Name : RafiqM,Fathers Name: Abdul Gaffar Sab,House Number : 2115,Age +56 Gender : Male,13,13
+368,] i THT2187136,Name : Reshama VY,Husbands Name: ie,House Numb,Age 42 perros,13,14
+62,THT2732600,Name = Khurshidbi,Husbands Name: Ubedulla,House Number : 2112-1,Age : 68 Gender : Female,13,15
+377,THT3341120,Name : RAKHEEBA BANU,Husbands Name: JABI ULLA,House Number : 2114,Age : 21 Gender : Female,13,16
+90,THT1252030,Name : Shahina,Husbands Name: NOOR ULLA SAB NOO,ULLA SAB,House Number : 2115,13,17
+69,THT2187110,Name : Shama,Husbands Name: VAJEERA AHAMED,House Number : 2113,Age : 37 Gender : Female,13,18
+63,CWF1642057,Name : Sharif jan,Fathers Name: Ubedulla,House Number : 2112-1,Age : 50 Gender : Male,13,19
+88,CWF1641356,Name : Rahaman sab,Fathers Name: Gaffar Sab,House Number : 2115,Age + 60 Gender : Male,13,20
+78,THT3418753,Name : Nseema Banu,Husbands Name: Syed Saddam Husain,Darvesh,House Number : #2114,13,21
+67,THT3187259,Name : Dadapeer,Fathers Name: Yusuf Sab,House Number : 2113,Age : 47 Gender : Male,13,22
+61,CWF1641406,Name t Manjula S,Husbands Name: Umesha,House Number : 2111,Age : 45 Gender : Female,13,23
+76,THT3023488,Name : Tamanna,Fathers Name: Syed Mahaboob,House Number +2114,Age : 26 Gender : Female,13,24
+374,] THT3169174,Name : Syed mahaboob,Fathers Name: Syed khalee! sab,House Number : 00,Age : 50 Gender : Male,13,25
+383,THT1252006,Name : Phamidabanu,Husbands Name: Sai.Umar,House Number : 2114-1,Age : 44 Gender : Female,13,26
+375,THT 3495678,Name : Syed Saddam Hussaindarvesh,Fathers Name: Syed Sami Ulla,House Number : 2114,Age : 33 Gender : Male,13,27
+84,THT2313153,Name : Amrarin Kousar,Fathers Name: Syed Asiam,House Number : 2114/1,Age : 31 Gender : Female,13,28
+373,THT1251966,Name + Mahabubbasha,Fathers Name? Gapursab,House Number : 2114,Age : 53 Gender : Male,13,29
+382,1 CWF1645001,Name ! NASREEN Taj,‘Husbands Name: SYED MAHABOOB,House Number : 2114-1,Age : 43 Gender : Female,13,30
+416,CWF1652312,Name : Ekbal Anamad.H.B,Fathers Name: Karimsab,"House Number : 2118,",Age : 43 Gender : Male,14,1
+10,THT2521136,Name : Yasmin,Husbands Name: Dastagir,House Number 2118,Age : 43 Gender : Female,14,2
+401,THT3296605,Name : H Nayeemunnisa,Husbands Name: B Y Babu,"House Number : 21154,",Age :51 Gender : Female,14,3
+95,THT1785310,Name : Umesh Kausar,Husbands Name: Karinsab,House Number 2115,Age : 34 Gender : Female,14,4
+15,CWF1652247,Name : Sabirabanu,Husbands Name: Karimsab,House Number : 21184,Age : 56 Gender : Female,14,5
+11,THT2521334,Name : Rihana BAnu,Fathers Name: Iqbal Anmed,House Number ! 2118,Age : 40 Gender : Female,14,6
+117,CWF1652270,Name : munavar ahamed,Fathers Name: Karimsab,House Number 21184,Age : 40 Gender : Male,14,7
+02,THT2315661,Name : Irshad Ahamed,Fathers Name: Rehaman Sab,House Number : 2115/B,Age : 30 Gender : Male,14,8
+109,THT2313518,Name + Nayeemunnisa,Husbands Name: Syed Faruk,House Number : 2118,Age : 47 Gender : Female,14,9
+00,THT3306636,Name : Bi Bi Maseera,Husbands Name: Abubakar N,House Number : #2115,Age : 24 Gender : Female,14,10
+96,THT2311975,Name : Abubakara_,Fathers Name: H.G. Noorulla,House Number : 2115,Age : 32 Gender : Male,14,11
+94,THT2315075,Name : Reshma banu,Husbands Name: Mahamed Rafik,House Number : 2115,Age : 37 Gender : Female,14,12
+19,| THT1252071,Name : Majarunnisa,Husbands Name: Imtiyaz,House Number : 2119,Age + 60 Gender : Female,14,13
+98,THT3228392,Name : A Saniya,Fathers Name: Rahaman sab,House Number : 2115,Age +24 Gender : Female,14,14
+92,THT2732634,Name : Yasmin,Husbands Name: Raphik,House Number : 2115,Age +50 Gender : Female,14,15
+107,THT3023744,Name : Najiya Banu,Husbands Name: llyas M D Ilyas MD,House Number : 2117,Age ! 26 Gender : Female,14,16
+120,] THT1785203,Name : llyas MD,Fathers Name: Imtiyaz,House Number :01,Age : 35 Gender : Male,14,17
+99,THT3341138,Name : A Arbeen,Husbands Name: Abdul Rehaman,House Number 2115,Age : 21 Gender : Female,14,18
+93,THT 1785328,Name : Khustar BAnu,Husbands Name: Altaf B,House Number : 2115,Age : 40 Gender : Female,14,19
+18,CWF1642073,Name : imtiyaz,Fathers Name: Hayath Sab,House Number : 2119,Age + 65 Gender : Male,14,20
+08,CWF1645985,Name : Bal Krish Banu,Husbands Name: Chand Peer,House Number : 2118,Age : 48 Gender : Female,14,21
+97,THT2315190,Name : Syed Kuthajathul Kubra,Fathers Name: H.G. Noorulla,House Number : 2115,Age : 30 Gender : Female,14,22
+91,THT 1252048,Name ! Kareem Sab,Fathers Name: Gaffar Sab,House Number : 2115,Age : 55 Gender : Male,14,23
+06,THT3023611,Name : Mahamad Aleem,Fathers Name: Zabiulla,House Number : 2117,Age : 31 Gender : Male,14,24
+104,: CWF1645993,Name = Noorjan,Husbands Name: Jabiulla,House Number 2117,Age : 60 Gender : Female,14,25
+413,THT2315216,Name : Mahamad Mujeeb,Fathers Name: Chandpeer,House Number : 2118,Age + 37 Gender : Male,14,26
+05,THT2071918,Name : Gows peer.,Fathers Name: Jabee ulla.,House Number : 2117,Age : 36 Gender : Male,14,27
+14,CWF1652296,Name : Karimsab,Fathers Name: Modinasab,House Number : 21184,Age : 61 Gender : Male,14,28
+03,THT2312825,Name : Bibijan,Husbands Name: Kasimsab,House Number : 2117,Age : 72 Gender : Female,14,29
+112,THT2315638,Name : Naajima. C,Fathers Name: Chandpeer,House Number : 2118,Age : 39 Gender : Female,14,30
+446,| THT2315430,Name : Vinay. K.M,Fathers Name: Mallikarjunappa. K.C,House Number : 2132/4,Age : 32 Gender : Male,15,1
+4140,| THT2732691,Name :S.M.Viresha,Fathers Name: S M Basavarajappa,House Number : 2130,Age : 58 Gender : Male,15,2
+131,: THT3189115,Name : Mohammed Jafar R,Fathers Name: Abdul Razakh,House Number : 2124,Age : 24 Gender : Male,15,3
+125,CWF1628619,Name : Shahanavaz,Husbands Name: Gauspeer,House Number :2120A,Age : 53 Gender : Female,15,4
+46,] CWF1642685,Name : R.B.Sumangala,Husbands Name: K.C.Mallikarjunappa,House Number : 21324,Age : 63 Gender : Female,15,5
+441,| CWE1643717,Name : Suralyathabasum,Husbands Name: Sai.Anamad,House Number 2132,Age : 55 Gender : Female,15,6
+147,CWF1642719,Name : Rathnamma,Husbands Name: Basavarajappa,House Number : 21328,Age : 88 Gender : Female,15,7
+32,THT2312791,Name : Riyaz Unnisa,Husbands Name: Rajak Sab,House Number : 2124/A,Age : 54 Gender : Female,15,8
+39,THT0040840,"Name + N.R, Kumar",Fathers Name: N.T. Ramanna,House Number : 2130,Age : 58 Gender : Male,15,9
+30,CWF1640200,Name : Akram Basha,Fathers Name: .Rajaq sab,House Number : 2124,Age : 48 Gender : Male,15,10
+126,"THT1252113,",Name : Maimunnisa.,Husbands Name: Babajan,House Number :2120A,Age : 50 Gender : Female,15,11
+24,THT1252097,Name : Rabiyabi,Husbands Name: Saiamirsab,House Number : 2120A,Age : 83 Gender : Female,15,12
+445,] CWF1642743,Name : Sudha,Husbands Name: R.B.Prasannakumar,House Number : 2132B,Age +51 Gender : Female,15,13
+28,CWF1641703,Name + Noorjan,Husbands Name? Driver.Rajak sab,House Number : 2124,Age : 70 Gender : Female,15,14
+122,: THT2732642,Name * Jahidabi,Husbands Name: Ayubpasha,House Number : 2120,Age +56 Gender + Female,15,15
+137,THT2454288,Name :S Sheela,Husbands Name: H P Nagaraj,House Number + 2127,Age : 41 Gender : Female,15,16
+150,CWF1645852,Name : Rukmini,Husbands Name: G.N.Kumar,House Number : 2133,Age : 58 Gender : Female,15,17
+129,THT3141835,Name : Razak Sab,Fathers Name: Bashasaheb Jankal,House Number : 2124,Age : 66 Gender : Male,15,18
+23,THT2071975,Name : Nooprulla.,Mothers Name: Jahidabi.,House Number : 2120,Age : 37 Gender : Male,15,19
+148,CWF1644467,Name : R.B. prasannakumar,Fathers Name: Basavarajappa,House Number : 2132B,Age + 65 Gender : Male,15,20
+38,THT3419371,Name : Vishwas N,Fathers Name: Nagaraju H P,House Number : #2127,Age : 20 Gender : Male,15,21
+27,CWF1644236,Name : Drivar Rajak sab,Fathers Name: Budensab,House Number : 2124,Age : 80 Gender : Male,15,22
+21,THT1252089,Name : Ayubpasha,Fathers Name: Khalilsab,House Number : 2120,Age : 60 Gender : Male,15,23
+136,THT1252188,Name : Sudha,Husbands Name: Thippeswamy,House Number : 2127,Age : 58 Gender : Female,15,24
+43,7 CWF1652445,Name : Prakasha,Fathers Name: Parameshwarappa.G.P,House Number : 2127,Age : 64 Gender : Male,15,25
+43,THT2984094,Name : Syed Afridi S,Fathers Name: Syed Anmed,House Number : 2132,Age +27 Gender : Male,15,26
+35,THT2732675,Name : Sunitha,Husbands Name: Prakasha,House Number 2127,Age : 58 Gender : Female,15,27
+4,] CWF1652494,Name : K.c.Mallikarjunappa,Fathers Name: K.Channabasappa,House Number : 21324,Age : 67 Gender : Male,15,28
+433,] CWF 1645134,Name : Pyajunnisa,Husbands Name: Mahamadnurullasab,House Number : 2124M,Age : 49 Gender : Female,15,29
+42,THT2984151,Name : Ayesha Lubna S,Fathers Name: Syed Ahmed,House Number : 2132,Age : 28 Gender : Female,15,30
+76,THT0418889,Name : P.Fayaz,Fathers Name: Shiru sab,House Number : 2143,Age : 45 Gender : Male,16,1
+170,: THT2454403,Name : Mohammad Shihan. A.,Fathers Name: Athaulla,House Number : 2140/1,Age : 29 Gender : Male,16,2
+61,CWF1643550,Name : Syed Sadiq Ulla,Fathers Name: Syed Usman Basha,House Number : 2139,Age : 44 Gender : Male,16,3
+455,| CWF1654839,Name : Nagalingaswamy,Fathers Name: Ganeshachar,"House Number : 2135,",Age : 62 Gender : Male,16,4
+175,CWF1652221,Name + Sundaramma,Husbands Name: Ramanna,House Number : 2143,Age : 60 Gender : Female,16,5
+71,THT3135126,Name : Mohammed soud A,Fathers Name: Athaulla,House Number : 2140-1,Age : 25 Gender : Male,16,6
+77,THT0418871,Name : Sumayya Aanjum,Husbands Name: Fayaz,House Number : 2143,Age : 39 Gender : Female,16,7
+62,THT1252261,Name : Thabasum,Husbands Name: Salyada Ismayila Jabi U,House Number : 2139,Age : 43 Gender : Female,16,8
+69,THT1252402,Name + Mohsina taj,Husbands Name: Atha ulla,House Number : 2140-1,Age : 55 Gender : Female,16,9
+160,| THT2732717,Name : Nagamani.D.V.,Husbands Name: T.D.Lakshmana,House Number : 2136,Age : 68 Gender : Female,16,10
+456,| CWF1652098,Name : Savithra,Husbands Name: Nagalingaswamy,House Number : 2135,Age : 57 Gender : Female,16,11
+54,THT3091568,Name + Monika G K,Fathers Name: Kumar GN,House Number : 2133,Age : 26 Gender : Female,16,12
+479,CWF5609946,Name = Lakshmi,Husbands Name: Prakashababu,House Number : 2145,Age : 48 Gender : Female,16,13
+58,| THT3135159,Name : Navaneeth Achar HN,Fathers Name: Nagalinga swamy,House Number : 2135,Age : 27 Gender : Male,16,14
+52,"THT2314995,",Name :G K Deepa,Fathers Name: G N Kumar,House Number : 2133,Age +30 Gender + Female,16,15
+67,THT2984292,Name : Vikas AN,Fathers Name: A S Nagaraja,House Number 2140,Age + 27 Gender + Male,16,16
+80,THT3220563,Name : Harshini P,Fathers Name: Prakash Babu D C,House Number : 2145,Age : 24 Gender : Female,16,17
+459,THT0044347,Name :T.D.Lakshmana,Fathers Name: Dasappa,House Number : 2136,Age : 79 Gender : Male,16,18
+53,THT 2454387,Name : G.K. Kavya,Fathers Name: G.N. Kumara,House Number : 2133,Age + 29 Gender : Female,16,19
+478,| CWF 1644202,Name : Prakashababu.D.C,Fathers Name: Chikkanna,House Number : 2145,Age + 55 Gender : Male,16,20
+68,THT1252394,Name : Atha ulla,Fathers Name: Hayathsab,House Number : 2140-1,Age : 60 Gender : Male,16,21
+457,| THT2313302,Name : Vyshnavi. H.N.,Fathers Name: Nagalingaswami. N.G,House Number : 2135,Age : 30 Gender : Female,16,22
+451,| CWF1642263,Name : G.N.Kumar,Fathers Name: G.Narayanaswamy,House Number : 2133,Age : 58 Gender : Male,16,23
+166,THT2521268,Name : Kumuda AN,Fathers Name: A S Nagarajappa,House Number : 2140,Age : 30 Gender : Female,16,24
+46,Jo! THT1252295,Name : A.Girjamma VY,Husbands Name: iurthappa:,House Numi Ne,Age :79 oe ‘emale,16,25
+173,: THT3166337,Name : Shwetha NR,Husbands Name: N Manjunatha,House Number : 2142,Age +36 Gender : Female,16,26
+65,THT1252337,Name : Jayashila,Husbands Name: A.S. Nagaraja,House Number : 2140,Age : 53 Gender : Female,16,27
+174,CWF1645308,Name : Gowramma,Husbands Name: Naganna,House Number : 2142-1,Age : 68 Gender : Female,16,28
+63,THT3020401,Name : Naziya Banu,Husbands Name: Syed Shafiulla,House Number : 2139,Age : 30 Gender : Female,16,29
+72,THT 1252428,Name :H.L. Balaraja,Fathers Name: H.T. Lokesha,House Number : 2141,Age : 40 Gender : Male,16,30
+506,THT1252550,Name : Shabinabanu,Husbands Name: Dadapir,House Number 2152,Age ! 48 Gender : Female,17,1
+00,THT2454304,Name : Ayesha Siddiq,Fathers Name: Moula Sab,House Number 2151,Age : 30 Gender : Female,17,2
+491,| THT 1252501,Name ¢ Jinathunnisa,Husbands Name? Mahabubbasha,House Number  2150A,Age : 55 Gender : Female,17,3
+185,: THT2732741,Name : Thahirabi,Fathers Name: Shabbirsab,House Number : 2150,Age : 58 Gender : Female,17,4
+05,THT2071868,Name : Dadapeer M.,Fathers Name: N. Maulasab,House Number : 2151/1,Age : 36 Gender : Male,17,5
+501,THT3424744,Name : Mohammed Arif,Fathers Name: Mahaboob Basha,House Number : 2151,Age : 22 Gender : Male,17,6
+07,THT0407759,Name : Pallavidas D.,"Fathers Name: T.V,. Dasappa",House Number 2152,Age : 38 Gender : Female,17,7
+92,THT2315521,Name : Poujiyabanu,Fathers Name: Mahabooba Basha,House Number :2150/A,Age : 31 Gender : Female,17,8
+99,THT2454361,Name + M Shahbaz Banu,Husbands Name: Sardar Khan,House Number : 2151,Age : 33 Gender : Female,17,9
+190,THT 1252493,Name : Mahabubbasha,Fathers Name: Khadarsab,House Number : 21504,Age : 60 Gender : Male,17,10
+186,] THT0403022,Name : Dadapeer,Fathers Name: Late Shabbir Sab,House Number : 2150,Age : 41 Gender : Male,17,11
+84,CWF1640689,Name : Mahabubi,Husbands Name: Shabbirsab,House Number : 2150,Age : 65 Gender : Female,17,12
+09,| CWF1640523,Name : DRIVER KHASIM SAB,Fathers Name: MASTHAN SAB,House Number : 2155,Age +58 Gender : Male,17,13
+188,] THT3340742,"Name : Faseeha Banu, SM.",Fathers Name: meal a,House Numi,Age :30 Cerra,17,14
+482,| CWF1650571,Name : Manjamma,Husbands Name: Venkateshappa,House Number : 2146,Age +60 Gender : Female,17,15
+497,] CWF5608112,Name : Shamshad,Others: Buden Sab,House Number : 2151,Age : 48 Gender : Male,17,16
+510,| CWF1641752,Name : Shabina,Husbands Name: Driver.Khasimsab,House Number : 2155,Age : 55 Gender : Female,17,17
+89,THT3340734,Name : M Sameena Banu,Fathers Name: Maha Boob Basha,House Number : 2150,Age : 28 Gender : Female,17,18
+183,CWF1646132,Name : Dasappa,Fathers Name: Thimmappa,House Number : 2148,Age : 75 Gender : Male,17,19
+508,THT 1252584,Name : Shanshad Unnisa,Husbands Name: Mohamadraphik,House Number : 2154C.,Age : 48 Gender : Female,17,20
+198,CWF1641802,Name : Dadapeer,Fathers Name: Ahamadjan,House Number : 2151,Age : 45 Gender : Male,17,21
+87,THT2521300,Name : Shabana Banu,Husbands Name: Dadapeer,House Number : 2150,Age : 35 Gender : Female,17,22
+81,THT3091550,Name : Varun P,Fathers Name: Prakash Babu D C,House Number : 2145/1,Age : 27 Gender : Male,17,23
+196,THT1252519,Name : Mahaboob Basha,Fathers Name: Ahmadjan,House Number : 2151,Age : 50 Gender : Male,17,24
+194,: THT2732758,Name : Hayathbi,Husbands Name: Ahmadjan,House Number : 2151,Age : 70 Gender : Female,17,25
+503,: THT1252535,Name : Sahelabanu,Husbands Name: Maulasab,House Number : 2151/1,Age +57 Gender : Female,17,26
+95,THT3353919,Name : H Sardar Khan,Fathers Name: Hayath Khan,House Number : 2151,Age : 50 Gender : Male,17,27
+504,THT1252527,Name : M Babapakriuddin,Fathers Name: Maulasab,House Number : 2151/1,Age : 36 Gender : Male,17,28
+93,CWF5609821,Name : Ahamed jan,Fathers Name: Jalilsab,House Number : 2151,Age : 76 Gender : Male,17,29
+02,THT2189421,Name : Loulasab,Fathers Name: Nazir sab,House Number : 2151/1,Age : 64 Gender : Male,17,30
+521,CWF1642768,Name : Phajilla,Husbands Name: Apsar basha,House Number : 2158,Age : 45 Gender : Female,18,1
+336,THT0042762,Name : Tasneem Rabia,Husbands Name: Yusuf Ali KB,House Number : 2168,Age 150 Gender : Female,18,2
+530,] CWF1648773,Name : Vinodamma,Husbands Name: Shivashankarappa,House Number 2163,Age : 45 Gender : Female,18,3
+515,THT2732774,Name : Sahera Banu,Husbands Name: Mahammmed Nazeer,Ahamed,House Number : 21558,18,4
+35,THT1252725,Name + Yunusaali,Fathers Name: K.K.Babu,House Number : 2168,Age : 50 Gender : Male,18,5
+531,CWF1645282,Name : Sharadamma,Husbands Name: Shivamurthappa,House Number 2166,Age : 75 Gender : Female,18,6
+20,THT1252634,Name : Rajiyabi,Husbands Name: Anwarbasha,House Number : 2158,Age : 51 Gender : Female,18,7
+37,THT1252733,Name : Asiphaali,Fathers Name: K.K.Babu,House Number : 2168,Age : 49 Gender : Male,18,8
+22,CWF1645548,Name : Ajagar basha,Fathers Name: Suban sab,House Number : 2158,Age : 45 Gender : Male,18,9
+529,| CWF1649540,Name + Shivashankarappa,Fathers Name? Shankarappa,House Number : 2163,Age : 52 Gender : Male,18,10
+16,THT2494656,Name : Nadeem Anamed,Fathers Name: Mohemed Najeer Anemed,House Number : 2155/B,Age : 30 Gender : Male,18,11
+514,THT2732766,Name : Mahammed Nazeer Anamed,Fathers Name: Abdul Bhasheer,House Number : 2155B,Age : 55 Gender : Male,18,12
+518,| THT1252626,Name : Anwarbasha,Fathers Name: Subansab,House Number : 2158,Age +56 Gender : Male,18,13
+539,| THT3146461,Name : Mohammed Thoufig Ali BY,Fathers Name: Yusuf Ali KB,House Number : 2168,Age : 25 Gender + Male,18,14
+512,: THT 2984136,Name : Meharunnisa,Husbands Name: Saddam,"House Number : 2155,",Age + 28 Gender + Female,18,15
+527,| THT0410860,Name : Santhoshakumar K M,Fathers Name: K.M.Mukundarao,House Number : 2160,Age : 35 Gender : Male,18,16
+5,] CWF1643139,Name : H.M.Veerupakshappa,Fathers Name: Mavinallappa,House Number : 2170,Age : 80 Gender : Male,18,17
+519,CWF1642750,Name : Apsarbasha,Fathers Name: Suban sab,House Number : 2158.,Age : 53 Gender : Male,18,18
+513,THT2984284,Name : K Shamsheer,Fathers Name: Khasim Sab,House Number : 2155,Age : 28 Gender : Male,18,19
+38,THT2984045,Name : Mohammed Thousif Ali,Fathers Name: Yusuf Ali KB,House Number : 2168,Age +27 Gender : Male,18,20
+28,THT2521250,Name : S Syed Sadat,Fathers Name: Shabbir Sab,House Number : 2160,Age 31 Gender : Male,18,21
+17,THT2732790,Name : Phahimabi,Husbands Name: Subansab,House Number : 2158,Age : 75 Gender : Female,18,22
+511,THT2169969,Name : Saddam,Fathers Name: Kasimsab,House Number : 2155,Age : 34 Gender : Male,18,23
+326,THT0406496,Name : D.Rehaman,Fathers Name: Dadapeersab,House Number : 2160,Age : 48 Gender : Male,18,24
+524,| CWF1672765,Name :T.R.Ravikumara,Fathers Name: T.T.Ramanna,House Number : 2159,Age : 53 Gender : Male,18,25
+533,| THT2189413,Name : Tejamurthy.H.S.,Fathers Name: Shivamurthy.H.N.,House Number : 2166,Age + 34 Gender : Male,18,26
+25,CWF1661396,Name : Shantha,Husbands Name: Ravi kumara,House Number : 2159,Age : 48 Gender : Female,18,27
+34,THT0042846,Name : Yusuf Ali K B,Fathers Name: Babu K K,House Number : 2168,Age : 58 Gender : Male,18,28
+532,| CWF1642677,Name : Shivamurthappa,Fathers Name: Nagappa,House Number : 2166,Age : 75 Gender : Male,18,29
+523,| THT0001776,Name : Afreen Thaj,Husbands Name: AajagaraK.Basha,House Number : 2158,Age : 37 Gender : Female,18,30
+66,CWF1640630,Name : Yakbal,Fathers Name: Usman,House Number 2180,Age : 48 Gender : Male,19,1
+60,CWF1648526,Name : Sadiq ali,Fathers Name: Shoukat ali,House Number 2179,Age : 49 Gender : Male,19,2
+551,CWF4018750,Name : Sadashivappa,Fathers Name: Shankarappa,House Number : 2177,Age : 62 Gender : Male,19,3
+45,THT3502259,Name : HV RISHI,Fathers Name: VIJAYA HV,House Number : 2170,Age : 20 Gender : Male,19,4
+65,THT2732865,Name : Saipulla,Fathers Name: Bashasab,House Number : 2180,Age : 49 Gender : Male,19,5
+61,CWF1648914,Name : Naseer ali,Fathers Name: Shaukat ali,House Number : 2179,Age : 48 Gender : Male,19,6
+67,THT1252824,Name : Salma,Husbands Name: Saipulla,House Number : 2180,Age : 44 Gender : Female,19,7
+552,THT 1252790,Name : Pushpa,Husbands Name: Murugeshappa,House Number : 2177,Age : 60 Gender : Female,19,8
+59,THT1252808,Name + Shaukathali,Fathers Name: Amirjan,House Number : 2179,Age : 64 Gender : Male,19,9
+350,THT1785237,Name : Raghavendra PS,Fathers Name: Shrinivasa B,House Number :2171B.,Age : 35 Gender : Male,19,10
+346,CWF1655737,Name : Shrinivasa. B,Fathers Name: Bandaiah.P.T,House Number : 2171,Age : 68 Gender : Male,19,11
+4,ZFB3634912,Name : SAVITHA KR,Husbands Name: SUJAYAH V,House Number : 2170,Age : 43 Gender : Female,19,12
+69,THT3135431,Name : Mokhadas.,Husbands Name: Shanavaz Khan,House Number : 2181,Age +56 Gender : Female,19,13
+548,| THT0405621,Name : P.S. Shashikumar,Fathers Name: D.A..Shrinivasa,House Number : 2171,Age : 36 Gender : Male,19,14
+547,i] CWF1645621,Name : Sujaya.H.V,Fathers Name: Virupakshappa.H.M,House Number : 2170,Age : 49 Gender : Male,19,15
+57,CWF5607395,Name : Sulochana,Husbands Name: Rajanna,House Number : 2177A,Age : 60 Gender : Female,19,16
+70,CWF1645415,Name : Parwinthaj,Husbands Name: Anwarsab,House Number 2181,Age : 55 Gender : Female,19,17
+549,WVR5073671,Name : Sudhamani MO,Fathers Name: Omkaramurthy S,House Number : 2171,Age : 29 Gender : Female,19,18
+543,| THT2732824,Name : VIJAYAHV,Fathers Name: VIRUPAKSHAPPA H M,House Number : 2170,Age : 48 Gender : Male,19,19
+68,THT2521359,Name : SUMIYA BANU,‘Husbands Name: MUZAMMIL,House Number : #2180,Age : 28 Gender : Female,19,20
+58,THT3167095,Name : Akshatha R,Fathers Name: Rajanna S,House Number : 2177/E,Age : 28 Gender : Female,19,21
+347,CWF1645597,Name : Sushela.H,Husbands Name: Shrinivasa.B,House Number : 2171,Age : 59 Gender : Female,19,22
+541,THT2732816,Name ! Nagarathna,Husbands Name: Virupakshappa,House Number : 2170,Age : 70 Gender : Female,19,23
+156,CWF5606777,Name : Rajanna,Fathers Name: Shankarappa,House Number : 21774,Age : 65 Gender : Male,19,24
+554,CWF1642388,Name : S. Rajeshwari,Husbands Name: Sadashivappa,House Number : 2177,Age : 45 Gender : Female,19,25
+63,THT2313344,Name : Khalandar Beg,Fathers Name: lliyaj Beg,House Number : 2179,Age + 31 Gender : Male,19,26
+55,THT2367654,Name : Poornima. B.G,Husbands Name: Mahesh. S.M,House Number : 2177,Age : 34 Gender : Female,19,27
+64,THT3135605,Name : Nagma Banu B N,Husbands Name: Khalandar Baig,House Number : 2179,Age : 29 Gender : Female,19,28
+553,THT 2732832,Name + Mahesh SM,Fathers Name? Murugendrappa,House Number : 2177,Age : 46 Gender : Male,19,29
+62,THT3020203,Name : Reshma,Husbands Name: Sadhiq Ali,House Number : 2179,Age : 41 Gender : Female,19,30
+596,THT0044289,Name : Ummesaima,Husbands Name: Zabiulla,House Number 2184,Age : 40 Gender : Female,20,1
+90,THT2315687,Name : Pyarijana,Husbands Name: Dadavali,House Number 2184,Age : 52 Gender : Female,20,2
+581,] THT 1252857,Name : SYEDKHALANDAR,SYEDKHALANDAR,Fathers Name: Ajijsab,House Number 2183,20,3
+75,THT2521094,Name : Asmabanu,Fathers Name: Anwar Sab,House Number 2181,Age 131 Gender : Female,20,4
+95,CWF1645167,Name : Hajira banu,Husbands Name: Vajir ahamad,House Number : 2184,Age : 42 Gender : Female,20,5
+71,CWF1645217,Name : Jabina,Husbands Name: Samiulla,House Number : 2184,Age : 50 Gender : Female,20,6
+97,THT3166188,Name : S Sanobar,Husbands Name: Rahamatulla R,House Number : 2184,Age : 27 Gender : Female,20,7
+582,CWF1644004,Name : Vahida Kanam,Husbands Name: Sai.Khalandar,House Number : 2183,Age : 50 Gender : Female,20,8
+89,CWF1648203,Name :N Saifuddin,Fathers Name: Nazeer sab,House Number : 2184,Age : 53 Gender : Male,20,9
+80,CWF 1644244,Name : Ayisha khanam,Fathers Name: Bashira Khan,House Number : 2183,Age : 55 Gender : Female,20,10
+76,THT3215050,Name : Shabeena,Husbands Name: Chandu,House Number : 21817,Age : 31 Gender : Female,20,11
+74,THT3135423,Name : Chandu,Fathers Name? Shanavaz khan,House Number : 2181,Age : 33 Gender : Male,20,12
+99,THT3020096,Name + Zabiulla S,Fathers Name: Saifulla,House Number : 2184,Age : 26 Gender + Male,20,13
+578,] CWF1644376,Name : Bathulabi VY,Husbands Name: EAC:,House Numi Ne,Age :80 oe ‘emale,20,14
+72,THT3135449,Name : Sultana,Fathers Name: Shanavaz Khan,House Number : 2181,Age +38 Gender : Female,20,15
+87,CWF1644194,Name : Najima,Husbands Name: Asim,House Number : 2183A,Age : 48 Gender : Female,20,16
+00,THT3135589,Name :S Munaza,Fathers Name: samiulla N,House Number : 2184,Age : 25 Gender : Female,20,17
+79,] THT0230375,Name : Basha Sab,Fathers Name: Abdula Khadara Sab,House Number : 2183,Age : 64 Gender : Male,20,18
+73,THT3188026,Name : Salman,Fathers Name: Shanavaz Khan,House Number : 2181,Age : 34 Gender : Male,20,19
+598,THT3020278,Name : Shamshuddin S,Fathers Name: Saifuddin,House Number : 2184,Age + 26 Gender : Male,20,20
+88,CWF1642081,Name : Najirsab.B,Fathers Name: Budenasab,House Number : 2184,Age : 65 Gender : Male,20,21
+77,THT3135571,Name : Haseena banu,Husbands Name: Salman,House Number : 2181,Age : 29 Gender : Female,20,22
+71,THT0405217,Name ! Anwarsab,Fathers Name: Bashasab,House Number : 2181,Age : 49 Gender : Male,20,23
+86,CWF1643311,Name : Asim,Fathers Name: K.M./smayil sab,House Number : 21834,Age : 51 Gender : Male,20,24
+184,THT2984029,Name : Syed Rahaman,Fathers Name: Syed Khalander,House Number : 2183,Age : 28 Gender : Male,20,25
+93,CWF1641224,Name : Karimali N,Fathers Name: Nazeer Sab,House Number : 2184,Age : 45 Gender : Male,20,26
+85,"THT3134913,",Name : Syed abbas:,Fathers Name: Syed khalandar,House Number : 2183,Age : 26 Gender : Male,20,27
+94,CWF1641661,Name : Bashirabanu,Husbands Name: Saiphulla,House Number : 2184,Age : 43 Gender : Female,20,28
+83,THT2315232,Name : Rabiya Khanam,Fathers Name: Esmail Sab A,House Number : 2183,Age : 35 Gender : Female,20,29
+92,CWF1641695.,Name : Rabiya,Husbands Name: Saifulla,House Number : 2184,Age : 45 Gender : Female,20,30
+926,THT2984185,Name : Mahamooda Usna,Husbands Name: Fyroz Khan,House Number 2191,Age ! 44 Gender : Female,21,1
+20,CWF1641133,Name : Athaulla,Fathers Name: Jaleel sab,House Number : 2190,Age : 65 Gender : Male,21,2
+611,| CWF5603121,Name : Y.H.Dalawai,Fathers Name: Hanumanthappa,House Number : 2189,Age :53 Gender : Male,21,3
+305,: THT3168945,Name = N Manjunatha,Fathers Name: Nagappa,"House Number : 2185,",Age : 47 Gender : Male,21,4
+25,CWF1671734,Name : Pairojkhan,Fathers Name: Althapkhan,House Number : 2191,Age : 50 Gender : Male,21,5
+21,CWF1643949,Name : Aabida,Husbands Name: Athaulla,House Number 2190.,Age : 60 Gender : Female,21,6
+27,THT0042036,Name : A. Samir Knan,Fathers Name: Aalthaph Khan,House Number 21917,Age : 39 Gender : Male,21,7
+112,CWF1640986,Name : Mahamad Raphiq,Fathers Name: Basha sab,House Number : 2189,Age : 52 Gender : Male,21,8
+19,THT3496494,Name = M Madiha,Fathers Name? Mahamad Rafiq,House Number : 2189,Age : 19 Gender : Female,21,9
+310,THT3214699,Name : Syed Mahaboob ali,Fathers Name: Syed Abdul Rahim,House Number : 2189,Age : 54 Gender : Male,21,10
+06,THT2312890,Name : B. Salmabanu,Fathers Name: Basheer Sab,House Number : 2185,Age : 30 Gender : Female,21,11
+04,CWF1644848,Name : Jabinabi,Husbands Name: Bashir sab,House Number : 2185,Age : 60 Gender : Female,21,12
+329,| CWF1643261,Name : Sai.Musthaf,Fathers Name: Syed rasool,House Number : 2194,Age +50 Gender : Male,21,13
+08,CWF1641810,Name : Khurshidh,Husbands Name: Bashasab,House Number : 2189,Age +60 Gender : Female,21,14
+02,THT3188836,Name : Umar Farooq V,Fathers Name: Vazeer Ahamed,House Number : 2184,Age +24 Gender : Male,21,15
+17,THT3496478,Name = SHANUVAJ,Husbands Name: MAHAMAD RAFIQ.,House Number : 2189,Age : 40 Gender : Female,21,16
+930,CWF1643287,Name : Farhath banu,Husbands Name: Sai.Musthafa,House Number : 2194,Age : 48 Gender : Female,21,17
+09,THT1252923,Name : Isarath Jan,Husbands Name: Aabdul Khadar,House Number : 2189,Age : 56 Gender : Female,21,18
+03,THT3293297,Name : V Musharif,Fathers Name: Vazeer Anmed N,House Number : 2184,Age + 22 Gender : Male,21,19
+28,THT2732907,Name + Sharshak,Fathers Name: Najirahamad,House Number : 2193,Age + 56 Gender : Male,21,20
+518,THT3495181,Name : SHIFA NAAZ,Fathers Name: SYED MAHABOOB ALI,House Number : 2189,Age : 20 Gender : Female,21,21
+07,"THT1252915,",Name : Aabdul Khadar,Fathers Name: Aabdul Vahab Sab,House Number : 2189,Age : 62 Gender : Male,21,22
+01,THT3188125,Name ? Sharmin V,Fathers Name: Vazeer Ahamed N,House Number : 2184,Age : 24 Gender : Female,21,23
+16,THT0422352,Name : Parvathi Dalawai,Husbands Name: Y H Dalawai,House Number : 2189,Age : 42 Gender : Female,21,24
+014,THT3215290,Name : Heeranaz,Husbands Name: Syed Mahaboob Ali,House Number : 2189,Age : 46 Gender : Female,21,25
+23,THT2313435,Name : A. Gouspeer,Fathers Name: Athaulla,House Number : 2190,Age +35 Gender : Male,21,26
+115,THT1252949,Name : Shabina,Husbands Name! Muhib,House Number : 2189,Age : 43 Gender : Female,21,27
+24,CWF1645795,Name : Sabira begam,Husbands Name: Althapkhan,House Number : 2191,Age : 60 Gender : Female,21,28
+113,THT1252931,Name =: Muhij,Fathers Name: Bashasab,House Number : 2189,Age : 50 Gender : Male,21,29
+522,CWF1641364,Name : Nijamauddin.A,Fathers Name: Athaulla.J,House Number : 2190,Age : 42 Gender : Male,21,30
+641,] THT 1253129,Name : U Khaleel,Fathers Name: U. Usmansab,House Number : 650,Age : 40 Gender : Male,22,1
+956,CWF1643444,Name : Nayazunnisa,Husbands Name? Gapursab,House Number : 2202,Age 160 Gender : Female,22,2
+150,: THT1253228,Name = Guljarbanu,Husbands Name: Saiyad Sharipha,House Number 2201,Age : 46 Gender : Female,22,3
+335,: THT3167228,Name : Mohammed vail,Fathers Name: Pyarejan,"House Number : 2195,",Age : 53 Gender : Male,22,4
+55,CWF1646256,Name + Abdul Gafoorsab,Fathers Name: Karimsab,House Number : 2202,Age : 65 Gender : Male,22,5
+61,THT2521128,Name : Seema S,Mothers Name: Guijar Banu,House Number 2201,Age : 31 Gender : Female,22,6
+40,THT3266707,Name : MUZAMMIL MUZAMMIL,Fathers Name: Gouse Peer Gouse Peer,House Number : #2195,Age : 39 Gender : Male,22,7
+57,THT2315455,Name :S. Nazima Banu,Husbands Name: A. Dadapeer,House Number : 2202,Age : 37 Gender : Female,22,8
+42,THT1785260,Name : Mahamada lliyasa G,Fathers Name: Madamad Gausapir,House Number : 2195/1,Age : 35 Gender : Male,22,9
+49,THT3416716,Name ? TANAHAAZ,Fathers Name: Gouse Peer,House Number : 2200-1,Age : 21 Gender : Female,22,10
+136,THT0042655,Name : Tasmina banu,Husbands Name: Mohammad vali,"House Number : 2195,",Age : 43 Gender : Female,22,11
+34,THT1253020,Name : THaheera Banu,Husbands Name: Nissar Anamad,House Number : 2195,Age : 55 Gender : Female,22,12
+38,THT1253053,Name : Dada Peer,Fathers Name: Imthiyaj Ahamad,House Number : 2195,Age +38 Gender : Male,22,13
+359,| THT3442712,Name : Aiman Firdous,Husbands Name: Mohammad Nawaz,House Number : 2202,Age 21 Gender : Female,22,14
+32,CWF1661909,Name = Najirulla,Fathers Name: Pyarejan,"House Number : 2195,",Age : 63 Gender + Male,22,15
+147,CWF1642040,Name : GOUSE PEER,Fathers Name: Jabbarsab,House Number : 2200-1,Age :55 Gender : Male,22,16
+60,CWF1645332,Name : Dadapeer,Fathers Name: Ajij ahamad,House Number : 2203,Age : 70 Gender : Male,22,17
+39,THT3023587,Name : Reshma Banu W,Husbands Name? Dadapeer,House Number : 2195,Age : 36 Gender : Female,22,18
+33,CWF1644392,Name : Sahira banu,Husbands Name: Gauspeer,House Number : 2195,Age : 60 Gender : Female,22,19
+58,THT2312833,Name : Mohammad Nawaz,Fathers Name: Abdul Gafoor Sab,House Number : 2202,Age + 31 Gender : Male,22,20
+48,CWF1641968,Name : Shabina,Fathers Name: Jabbarsab,House Number : 2200-1,Age : 43 Gender : Female,22,21
+937,THT1253079,Name :T.Kumara,Fathers Name: D.H. Thippeswamy,House Number : 2195,Age : 38 Gender : Male,22,22
+31,THT1253012,Name : Nisar Anamad,Fathers Name: Abdula Rahinsab,House Number : 2195,Age : 65 Gender : Male,22,23
+46,THT2315471,Name : Beebijan,Husbands Name: Mohammed Gous,House Number + 2200/1,Age : 77 Gender : Female,22,24
+44,: CWF1639723,Name : Jabbar sab,Fathers Name: KHUDDUS SAB,House Number : 2200-1,Age : 80 Gender : Male,22,25
+53,THT2521052,Name : Syed Sadat,Mothers Name: Guljar Banu,House Number : 2201,Age : 28 Gender : Male,22,26
+45,CWF1641943,Name : PYAREEMA,Husbands Name: Jabbarsab,House Number : 2200-1,Age : 79 Gender : Female,22,27
+54,THT3188596,Name : Karishma S,Fathers Name: Syed Shariff,House Number 2201,Age : 24 Gender : Female,22,28
+52,THT2521060,Name : Syed Nayaz,Mothers Name: Guljar Banu,House Number : 2201,Age + 30 Gender : Male,22,29
+43,THT1253152,Name : Dadapir,Fathers Name: Saththarsab,House Number : 2198,Age : 50 Gender : Male,22,30
+71,THT2072064,Name =H M JAFAR SADIQ,Fathers Name: MUHEEB JAN HH,House Number : 2205,Age 37 Gender t Male,23,1
+986,: THT3135142,Name : Ruksana,Husbands Name: K Mohammed shafiulla,House Number : 2208,Age 130 Gender : Female,23,2
+80,CWF1648534,Name + Pathimabi,Husbands Name: Jiyaulla,House Number : 2207,Age : 70 Gender : Female,23,3
+65,THT2454320,Name : Yasmeen,Husbands Name: Syed Mahboob,House Number : 2203,Age : 38 Gender : Female,23,4
+85,THT3023496,Name : K Mohammed Shafiulla,Fathers Name: Khaleel Sab,House Number : 2208,Age : 34 Gender : Male,23,5
+981,CWF1650522,Name : Sher All,Fathers Name: G.Jiyavulla abdul,House Number : 2207,Age : 45 Gender : Male,23,6
+70,THT2984342,Name : Shabana Banu,Husbands Name: Syed Ayub Jan,House Number : 2205,Age : 52 Gender : Female,23,7
+87,CWF1643048,Name : H.M.Bashir khan,Fathers Name: Mahmad khan,House Number : 2209,Age : 65 Gender : Male,23,8
+72,THT2315562,Name : Mahammed Siddiq Ahammed. H.,Fathers Name: H.H. Muheeb Jan,House Number : 2205,Age : 31 Gender : Male,23,9
+579,THT3428596,Name : Hajaratbilal A,Fathers Name: ASLAMBASHA.,House Number : #2206,Age : 22 Gender : Male,23,10
+6,THT2312999,Name : D. Nageena,Husbands Name: Valipeer,House Number : 2203,Age : 36 Gender : Female,23,11
+,THT1253251,Name : Balkis Unnisa,Husbands Name: Imran,House Number : 2203,Age : 43 Gender : Female,23,12
+68,CWF1644913,Name : Sajid Unnisa,Husbands Name: H H Muheeb Jan.,House Number : 2205,Age : 58 Gender : Female,23,13
+389,| THT1253350,Name = Shakirabi,Husbands Name: Pyarejansab,House Number : 2210,Age 80 Gender : Female,23,14
+062,THT0404962,Name : Dadapeer,Fathers Name: Athavullasab,House Number : 2203,Age : 55 Gender + Male,23,15
+77,THT3296548,Name : A MUbarak,Fathers Name: Asiambasha,House Number : 2206,Age : 24 Gender : Male,23,16
+90,THT1253376,Name : Mahamad Anwar,Fathers Name: P.S.Gaus Sab,House Number : 2210,Age : 59 Gender : Male,23,17
+69,THT2984367,Name : Syed Ayub Jan,Fathers Name: Syed Hata Ulla Sab,House Number : 2205,Age : 56 Gender : Male,23,18
+63,CWF1653112,Name : Vallipeer,Fathers Name: Ajij Anamad,House Number : 2203,Age : 43 Gender : Male,23,19
+88,CWF1643030,Name : Aashiya banu,‘Husbands Name: Bashir khan,House Number : 2209,Age : 55 Gender : Female,23,20
+78,THT3427945,Name : FATHIMA BEE,Husbands Name: SHABAZ,House Number : #2206,Age : 24 Gender : Female,23,21
+67,CWF1643493,Name : H.H.Mahib khan,Fathers Name: H R Abdul Hameed,House Number : 2205,Age : 76 Gender : Male,23,22
+561,THT1253244,Name : Syed Mahaboob,Fathers Name: Athavullasab,House Number : 2203,Age : 69 Gender : Male,23,23
+176,THT3020112,Name : A Mohammad Arbaz,Fathers Name: Aslam Basha,House Number : 2206,Age : 27 Gender : Male,23,24
+74,THT1253319,Name : Usnabanu,Husbands Name: Aslam Basha,House Number : 2206,Age :53 Gender : Female,23,25
+83,THT2313088,Name : Sadik ulla. J,Fathers Name: Jiyaulla,House Number : 2207,Age 33 Gender : Male,23,26
+75,THT2521078,Name : A Shahabaj,Fathers Name: Aslam Basha,House Number : 2206,Age : 30 Gender : Male,23,27
+84,THT1253335,Name : Jinathunnisa,Husbands Name: Khaililsab,House Number : 2208,Age : 70 Gender : Female,23,28
+582,THT1253327,Name ! ALLABHAKASH J,Fathers Name: JIYAULLA,House Number : 2207,Age : 45 Gender : Male,23,29
+73,CWF1639160,Name : Aslamulla,Fathers Name: Khalaksab,House Number : 2206,Age : 55 Gender : Male,23,30
+101,THT3166287,Name : Khaja Bi U,Husbands Name: A Imran,House Number : 2234,Age : 30 Gender : Female,24,1
+16,THT3267143,Name : shaheena BANU,Husbands Name: APSAR PASHA H M,PASHA HM,House Number : GOUSIYA,24,2
+710,: THT2315042,Name : Pharidabanu,Husbands Name: Mujmil Basha,House Number : 2305,Age : 41 Gender : Female,24,3
+95,THT2313534,Name : Jameer Pasha. P,Fathers Name: Pyarejan Saheb,House Number 2210,Age : 40 Gender : Male,24,4
+15,THT3430386,Name + Muskan shek,Mothers Name: ZUBEDA BANU,House Number : #,Age : 20 Gender : Female,24,5
+11,THT3187549,Name : shruthi SS,Fathers Name: Srinivas SG,House Number ! 2696,Age : 26 Gender : Female,24,6
+00,THT2312007,Name : Syed siddiq ahamed,Fathers Name? Kareemsab,House Number : 2229,Age : 36 Gender : Male,24,7
+17,THT1251784,Name : RIYAZ,Fathers Name: SHABBIR JAN,House Number : GOUSIYA NAGARA,Age : 43 Gender : Male,24,8
+02,THT2315018,Name : A. Imran,Fathers Name: Athikh. H.M.,House Number : 2234-1,Age : 30 Gender : Male,24,9
+09,THT2312023,Name : Rehana Banu,Husbands Name: Khaja Husen,House Number : 2301,Age : 37 Gender : Female,24,10
+96,THT2072015,Name : Riyaz Anamad,Fathers Name: Pyare Jan sab.,House Number : 2210,Age : 39 Gender : Male,24,11
+594,THT1253418,Name + Mubinabanu,Husbands Name? Munwarabasha,House Number : 2210,Age : 43 Gender : Female,24,12
+98,THT3135340,Name = AS k rahamath unnisa,Husbands Name: Syed siddiq ahamed,House Number : 2210,Age +27 Gender : Female,24,13
+9,| THT3422201,Name : PRUTHVI S KODMURGI KODMUF,Fathers Name: SATHISH H P,House Number : Kalleshwara motors,Age + 22 Gender : Male,24,14
+592,THT1253392,Name : Kamarahamad,Fathers Name: Pyarejansab,House Number : 2210,Age : 53 Gender : Male,24,15
+107,THT2313047,Name : Guljar. K.L.,Husbands Name: Rahaman,House Number : 2256,Age : 32 Gender : Female,24,16
+20,THT3455151,Name : ZABI ULLA J,Fathers Name: ZIYA ULLA,House Number : KUMAR BUILDING,Age : 35 Gender : Male,24,17
+99,THT2314987,Name : E Pushpa,Husbands Name: H.S. Nagaraju,House Number : 2226/1,Age : 38 Gender : Female,24,18
+93,THT1253400,Name : Irshadbanu,Fathers Name: Pyarejansab,House Number : 2210,Age : 48 Gender : Female,24,19
+18,THT0005504,Name : SHATAJ UNNISA,‘Husbands Name: KHALEEL U,House Number : Gousiya Nagara,Age : 42 Gender : Female,24,20
+08,THT3135613,Name : Navaz pasha,Fathers Name: Basha sab,House Number : 2293,Age : 28 Gender : Male,24,21
+97,THT3486354,Name : Ayisha,Husbands Name: Jameer Pasha P,House Number : 2210,Age : 35 Gender : Female,24,22
+91,THT1253384,Name ? Munavarbasha,Fathers Name: Pyarejansab,House Number : 2210,Age : 55 Gender : Male,24,23
+06,THT3338779,Name = Mubarak A.,Fathers Name: Abdul Rashid,House Number + 2244/1,Age : 23 Gender : Male,24,24
+104,THT2312460,Name : Abdul Rasheed,Fathers Name: Khasimsaheb,House Number : 2244/1,Age : 48 Gender : Male,24,25
+3,THT2312437,Name : Mujmamil Pasha,Fathers Name: M.K. Ali Basha,House Number : 7583,Age + 38 Gender : Male,24,26
+05,THT1254192,Name : Farzan,Husbands Name: Rashidjana,House Number : 2244/1,Age : 43 Gender : Female,24,27
+14,CWF1640218,Name : B ASHWAQ,Fathers Name: BASHASAB P,House Number =,Age : 49 Gender : Male,24,28
+12,THT3324050,Name : ANA SYEEDA,Husbands Name: H M JAFAR SADIQ,House Number : 3376,Age : 29 Gender : Female,24,29
+703,THT3430808,Name + KHALANDAR A,Fathers Name: REHAMANSAB,House Number : #2238-1,Age : 22 Gender : Male,24,30
+31,CWF1648120,Name : Mamthaj,Husbands Name: Phayajulla,House Number : WARD NO 6,Age :51 Gender : Female,25,1
+25,THT2315034,Name : Reehana. D,Fathers Name: Dadavali,House Number : No 272 3rd Cross,Age : 32 Gender : Female,25,2
+32,THT3423365,Name : ALIULLAS,Fathers Name: SYED FAYAZ ULLA,House Number = WARD NO 6,Age : 30 Gender : Male,25,3
+30,THT2253136,Name : Fayajulla,Fathers Name? Sathrsab,House Number : WARD NO 6,Age : 53 Gender : Male,25,4
+126,| THT3495249,Name : GANESH 0,Fathers Name: ONKARASWAMY H H,House Number : police quarters,Age : 27 Gender : Male,25,5
+24,THT3485802,Name : SALMA,"Husbands Name: AUMBASHA,",House Number : no 889,Age : 27 Gender : Female,25,6
+728,THT3214194,Name : Likhitha M,Fathers Name: M V Manjunatha,House Number : Shantiniketana nilaya,Age + 24 Gender : Female,25,7
+122,THT3483724,Name : DIVYASHREE N K,Fathers Name: KUMAR NR,House Number : maruthi clinic,Age +21 Gender + Female,25,8
+729,THT3376878,Name : SALMAC K,Husbands Name: ALLABHAKASH J,House Number : W/O ALLABHAKASH J,Age : 33 Gender : Female,25,9
+23,THT3146800,Name : Sabreen A,Fathers Name: Irfan M,House Number : N E S Badavane,Age : 25 Gender : Female,25,10
+727,| CWF1681535,Name ?H.S.Rukmini,Husbands Name: M.V.Manjunatha,House Number : Shantiniketana nilaya,Age : 51 Gender : Female,25,11
+21,THT3478047,Name : VANISHREE N K,Fathers Name: KUMAR NR,‘House Number : maruthi clinic,Age : 23 Gender : Female,25,12
+,,,,,,25,13
+,,,,,,25,14
+,,,,,,25,15
+,,,,,,25,16
+,,,,,,25,17
+,,,,,,25,18
+,,,,,,25,19
+,,,,,,25,20
+,,,,,,25,21
+,,,,,,25,22
+,,,,,,25,23
+,,,,,,25,24
+,,,,,,25,25
+,,,,,,25,26
+,,,,,,25,27
+,,,,,,25,28
+,,,,,,25,29
+,,,,,,25,30
+36,1 THT3526712,Name : SANIYA M,Mothers Name: SHABEENA,House Number : Gousiya nagara,Age : 18 Gender : Female,26,1
+34,1 THT3527199,Name : Nilufar Nadeemsab Ambalagi,Husbands Name: Shabaz MM,House Number : 2062,Age +21 Gender + Female,26,2
+35,1 THT3526704,Name : Shabhaz,Fathers Name: Karimbhasha,House Number : 2270,Age : 19 Gender : Male,26,3
+33,1 THT3526332,Name ! SHASHIKUMAR H S,Fathers Name: Shivashankarappa,House Number : 00,Age : 23 Gender : Male,26,4
+,,,,,,26,5
+,,,,,,26,6
+,,,,,,26,7
+,,,,,,26,8
+,,,,,,26,9
+,,,,,,26,10
+,,,,,,26,11
+,,,,,,26,12
+,,,,,,26,13
+,,,,,,26,14
+7,,,,,,26,15
+,,,,,,26,16
+,,,,,,26,17
+4,,,,,,26,18
+,,,,,,26,19
+,,,,,,26,20
+,,,,,,26,21
+5,,,,,,26,22
+,,,,,,26,23
+,,,,,,26,24
+,,,,,,26,25
+,,,,,,26,26
+,,,,,,26,27
+,,,,,,26,28
+,,,,,,26,29
+,,,,,,26,30
