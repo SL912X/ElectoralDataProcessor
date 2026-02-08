@@ -19,11 +19,11 @@ for directory in [INPUT_DIR, OUTPUT_DIR, DEBUG_DIR]:
     os.makedirs(directory, exist_ok=True)
 
 # File paths
-#DEFAULT_PDF_PATH = INPUT_DIR / "2025-EROLLGEN-S10-101-FinalRoll-Revision1-ENG-110-WI (1).pdf"
-#DEFAULT_PDF_PATH = INPUT_DIR / "VoterlistSample.pdf"
-DEFAULT_PDF_PATH = INPUT_DIR / "2025-EROLLGEN-S10-101-FinalRoll-Revision1-ENG-110-WI (1) (1).pdf"
-CSV_OUTPUT_PATH = OUTPUT_DIR / "extracted_data.csv"
-EXCEL_OUTPUT_PATH = OUTPUT_DIR / "processed_data.xlsx"
+# For batch processing - all PDFs in the input folder will be processed
+INPUT_FOLDER = INPUT_DIR
+DEFAULT_PDF_PATH = None  # Not used for batch processing
+CSV_OUTPUT_PATH = OUTPUT_DIR / "extracted_data.csv"  # Pattern: {filename}_extracted.csv
+EXCEL_OUTPUT_PATH = OUTPUT_DIR / "processed_data.xlsx"  # Pattern: {filename}_processed.xlsx
 
 # OCR Configuration
 TESSERACT_CMD = r'C:\Program Files\Tesseract-OCR\tesseract.exe'  # Adjust for your system

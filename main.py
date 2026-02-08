@@ -66,10 +66,10 @@ def configure_environment():
     pytesseract.pytesseract.tesseract_cmd = config.TESSERACT_CMD
     logger.info(f"Tesseract path set to: {config.TESSERACT_CMD}")
     
-    # Verify PDF file exists
-    if not Path(config.DEFAULT_PDF_PATH).exists():
-        logger.error(f"PDF file not found: {config.DEFAULT_PDF_PATH}")
-        raise FileNotFoundError(f"PDF file not found: {config.DEFAULT_PDF_PATH}")
+    # Verify input folder exists
+    if not Path(config.INPUT_FOLDER).exists():
+        logger.error(f"Input folder not found: {config.INPUT_FOLDER}")
+        raise FileNotFoundError(f"Input folder not found: {config.INPUT_FOLDER}")
     
     # Verify Poppler path exists (if provided)
     if config.POPPLER_PATH and not Path(config.POPPLER_PATH).exists():
@@ -83,24 +83,17 @@ def parse_arguments():
     parser = argparse.ArgumentParser(description="Electoral Roll Data Extractor")
     
     parser.add_argument(
-        "--pdf", 
+        "--input-folder", 
         type=str,
-        default=str(config.DEFAULT_PDF_PATH),
-        help="Path to the electoral roll PDF file"
+        default=str(config.INPUT_FOLDER),
+        help="Path to folder containing PDF files to process"
     )
     
     parser.add_argument(
-        "--csv", 
+        "--output-folder", 
         type=str,
-        default=str(config.CSV_OUTPUT_PATH),
-        help="Path to save the raw CSV output"
-    )
-    
-    parser.add_argument(
-        "--excel", 
-        type=str,
-        default=str(config.EXCEL_OUTPUT_PATH),
-        help="Path to save the processed Excel output"
+        default=str(config.OUTPUT_DIR),
+        help="Path to folder where output CSV/Excel files will be saved"
     )
     
     parser.add_argument(
@@ -110,6 +103,31 @@ def parse_arguments():
     )
     
     return parser.parse_args()
+
+
+def get_pdf_files(input_folder):
+    """
+    Get all PDF files from the input folder.
+    
+    Args:
+        input_folder: Path to the folder containing PDF files.
+        
+    Returns:
+        A sorted list of PDF file paths.
+    """
+    logger = logging.getLogger(__name__)
+    pdf_files = list(Path(input_folder).glob("*.pdf"))
+    
+    if not pdf_files:
+        logger.warning(f"No PDF files found in: {input_folder}")
+        return []
+    
+    pdf_files.sort()
+    logger.info(f"Found {len(pdf_files)} PDF files to process")
+    for pdf_file in pdf_files:
+        logger.info(f"  - {pdf_file.name}")
+    
+    return pdf_files
 
 
 def extract_data_from_pdf(pdf_path):
@@ -255,24 +273,77 @@ def main():
         # Configure environment
         configure_environment()
         
-        # Extract data from PDF
-        data = extract_data_from_pdf(args.pdf)
+        # Get all PDF files from the input folder
+        pdf_files = get_pdf_files(args.input_folder)
         
-        # Save raw data to CSV
-        raw_df = save_raw_data(data, args.csv)
+        if not pdf_files:
+            logger.error("No PDF files found in the input folder")
+            return 1
         
-        # Process and save output
-        output_df = process_and_save_output(raw_df, args.excel)
+        # Create output folder if it doesn't exist
+        Path(args.output_folder).mkdir(parents=True, exist_ok=True)
         
-        # Print summary
+        # Track overall statistics
+        total_voters = 0
+        processed_files = 0
+        failed_files = 0
+        
         logger.info("=" * 50)
-        logger.info(f"Electoral Roll Data Extraction Complete")
-        logger.info(f"Total voter entries processed: {len(output_df)}")
-        logger.info(f"Raw data saved to: {args.csv}")
-        logger.info(f"Processed data saved to: {args.excel}")
+        logger.info(f"Starting batch processing of {len(pdf_files)} PDF files")
         logger.info("=" * 50)
         
-        return 0
+        # Process each PDF file
+        for pdf_file in pdf_files:
+            logger.info(f"\n{'='*50}")
+            logger.info(f"Processing: {pdf_file.name}")
+            logger.info(f"{'='*50}")
+            
+            try:
+                # Generate output file names based on input PDF name
+                pdf_stem = pdf_file.stem  # Filename without extension
+                csv_path = Path(args.output_folder) / f"{pdf_stem}_extracted.csv"
+                excel_path = Path(args.output_folder) / f"{pdf_stem}_processed.xlsx"
+                
+                # Extract data from PDF
+                data = extract_data_from_pdf(str(pdf_file))
+                
+                if not data:
+                    logger.warning(f"No data extracted from: {pdf_file.name}")
+                    failed_files += 1
+                    continue
+                
+                # Save raw data to CSV
+                raw_df = save_raw_data(data, csv_path)
+                
+                # Process and save output
+                output_df = process_and_save_output(raw_df, excel_path)
+                
+                # Print summary for this file
+                logger.info(f"✓ File completed successfully")
+                logger.info(f"  Voter entries processed: {len(output_df)}")
+                logger.info(f"  CSV saved to: {csv_path}")
+                logger.info(f"  Excel saved to: {excel_path}")
+                
+                total_voters += len(output_df)
+                processed_files += 1
+                
+            except Exception as e:
+                logger.error(f"Error processing {pdf_file.name}: {e}", exc_info=True)
+                failed_files += 1
+                continue
+        
+        # Print final summary
+        logger.info("\n" + "=" * 50)
+        logger.info("Electoral Roll Batch Processing Complete")
+        logger.info("=" * 50)
+        logger.info(f"Total PDF files processed: {processed_files}/{len(pdf_files)}")
+        logger.info(f"Failed files: {failed_files}")
+        logger.info(f"Total voter entries processed: {total_voters}")
+        logger.info(f"Output folder: {args.output_folder}")
+        logger.info("=" * 50)
+        
+        return 0 if failed_files == 0 else 1
+        
     except Exception as e:
         logger.error(f"Error in main execution: {e}", exc_info=True)
         return 1
